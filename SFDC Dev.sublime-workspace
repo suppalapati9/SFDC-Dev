@@ -1,0 +1,221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"work",
+				"workload__c"
+			],
+			[
+				"wrk",
+				"wrkIDs"
+			],
+			[
+				"wo",
+				"workload__C"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/BIT/SFDC Dev",
+		"/C/BIT/SFDC Dev/config",
+		"/C/BIT/SFDC Dev/src",
+		"/C/BIT/SFDC Dev/src/pages"
+	],
+	"file_history":
+	[
+		"/C/BIT/SFDC/unpackaged/classes/AddBOMFavorite.cls-meta.xml",
+		"/C/Users/arris213/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/Users/arris213/Desktop/partner.wsdl.xml",
+		"/C/Users/arris213/Desktop/ARRISUpdateOpportunityv2.wsdl.xml",
+		"/C/Users/arris213/Desktop/ARRISUpdateOpportunity-editedv1.wsdl.xml",
+		"/C/BAT/SaaS/SaaS.sublime-project",
+		"/C/BAT/SaaS/src/classes/VMIShipmentRelease.cls",
+		"/C/BAT/SaaS/src/classes/workLoadTimeManagement.cls",
+		"/C/BAT/SaaS/src/classes/workLoadTimeManagementController.cls",
+		"/C/Users/arris213/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/arris213/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/C/BAT/SaaS/src/pages/ContentSearch.page",
+		"/C/BAT/SaaS/src/classes/ContentSearchController.cls",
+		"/C/Users/arris213/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text 3/changelog.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"\n",
+			"a2va",
+			"a2va\n",
+			"\n",
+			"xsd:anyType",
+			"history",
+			"anytype",
+			"retrieveopportunity",
+			"retrieve",
+			"dfb",
+			"retrieve",
+			"anytype",
+			"anytypestr",
+			"anytype",
+			"'')",
+			"user"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"',",
+			",'a2va",
+			"",
+			"string",
+			"'') {"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SFDC Dev.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

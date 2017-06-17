@@ -1,0 +1,19 @@
+{
+    "username": "swathi.uppalapati@arris.com.uat", 
+    "environment": "sandbox", 
+    "project_name": "SFDC Dev", 
+    "workspace": "C:\\BIT", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "OYFCL2CBR0FNP8QWSMBP40VTHA3ZML53", 
+    "metadata_container": "1dcn0000000Naq4AAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
