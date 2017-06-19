@@ -1,0 +1,1179 @@
+39.0 APEX_CODE,FINEST;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,INFO;WAVE,INFO;WORKFLOW,INFO
+14:01:36.0 (421635)|USER_INFO|[EXTERNAL]|005a000000AhPNu|pallavi.bhari@arris.com.uat|Eastern Standard Time|GMT-04:00
+14:01:36.0 (463136)|EXECUTION_STARTED
+14:01:36.0 (469157)|CODE_UNIT_STARTED|[EXTERNAL]|066n00000000qhm|VF: /apex/ExpressTestNewBattery
+14:01:36.0 (21459426)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (21763330)|HEAP_ALLOCATE|[72]|Bytes:3
+14:01:36.0 (21792114)|HEAP_ALLOCATE|[77]|Bytes:152
+14:01:36.0 (21804984)|HEAP_ALLOCATE|[342]|Bytes:408
+14:01:36.0 (21823573)|HEAP_ALLOCATE|[355]|Bytes:408
+14:01:36.0 (21837508)|HEAP_ALLOCATE|[467]|Bytes:48
+14:01:36.0 (21861703)|HEAP_ALLOCATE|[139]|Bytes:6
+14:01:36.0 (21916808)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:25
+14:01:36.0 (21922289)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:544
+14:01:36.0 (21925051)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:145
+14:01:36.0 (21927832)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:87
+14:01:36.0 (21935870)|METHOD_ENTRY|[1]|01pn0000000BU18|ExpressTestNewBatteryController.ExpressTestNewBatteryController()
+14:01:36.0 (21939668)|STATEMENT_EXECUTE|[1]
+14:01:36.0 (21945656)|STATEMENT_EXECUTE|[1]
+14:01:36.0 (21947134)|STATEMENT_EXECUTE|[321]
+14:01:36.0 (21948229)|STATEMENT_EXECUTE|[352]
+14:01:36.0 (21952579)|METHOD_EXIT|[1]|ExpressTestNewBatteryController
+14:01:36.0 (21957898)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:120
+14:01:36.0 (21962962)|VARIABLE_SCOPE_BEGIN|[32]|this|ExpressTestNewBatteryController|true|false
+14:01:36.0 (22039565)|VARIABLE_ASSIGNMENT|[32]|this|{}|0x2cf6b328
+14:01:36.0 (22046217)|STATEMENT_EXECUTE|[1]
+14:01:36.0 (22047724)|STATEMENT_EXECUTE|[2]
+14:01:36.0 (22060394)|STATEMENT_EXECUTE|[3]
+14:01:36.0 (22062986)|STATEMENT_EXECUTE|[4]
+14:01:36.0 (22064980)|STATEMENT_EXECUTE|[5]
+14:01:36.0 (22067072)|STATEMENT_EXECUTE|[6]
+14:01:36.0 (22069440)|STATEMENT_EXECUTE|[8]
+14:01:36.0 (22072578)|STATEMENT_EXECUTE|[9]
+14:01:36.0 (22075544)|STATEMENT_EXECUTE|[10]
+14:01:36.0 (22078023)|STATEMENT_EXECUTE|[11]
+14:01:36.0 (22080020)|STATEMENT_EXECUTE|[13]
+14:01:36.0 (22081836)|STATEMENT_EXECUTE|[14]
+14:01:36.0 (22083898)|STATEMENT_EXECUTE|[15]
+14:01:36.0 (22085782)|STATEMENT_EXECUTE|[16]
+14:01:36.0 (22087614)|STATEMENT_EXECUTE|[17]
+14:01:36.0 (22089604)|STATEMENT_EXECUTE|[18]
+14:01:36.0 (22091683)|STATEMENT_EXECUTE|[19]
+14:01:36.0 (22093755)|STATEMENT_EXECUTE|[20]
+14:01:36.0 (22095563)|STATEMENT_EXECUTE|[21]
+14:01:36.0 (22097520)|STATEMENT_EXECUTE|[22]
+14:01:36.0 (22099450)|STATEMENT_EXECUTE|[23]
+14:01:36.0 (22104967)|STATEMENT_EXECUTE|[24]
+14:01:36.0 (22106958)|STATEMENT_EXECUTE|[25]
+14:01:36.0 (22108945)|STATEMENT_EXECUTE|[26]
+14:01:36.0 (22110962)|STATEMENT_EXECUTE|[27]
+14:01:36.0 (22113693)|STATEMENT_EXECUTE|[28]
+14:01:36.0 (22115691)|STATEMENT_EXECUTE|[29]
+14:01:36.0 (22117869)|STATEMENT_EXECUTE|[30]
+14:01:36.0 (22119943)|STATEMENT_EXECUTE|[281]
+14:01:36.0 (22127207)|HEAP_ALLOCATE|[281]|Bytes:4
+14:01:36.0 (22152717)|VARIABLE_ASSIGNMENT|[281]|this.trLinkedContMap|{}|0x2cf6b328
+14:01:36.0 (22155162)|STATEMENT_EXECUTE|[282]
+14:01:36.0 (22162141)|HEAP_ALLOCATE|[281]|Bytes:6
+14:01:36.0 (22198784)|STATEMENT_EXECUTE|[32]
+14:01:36.0 (22200136)|STATEMENT_EXECUTE|[33]
+14:01:36.0 (22228169)|HEAP_ALLOCATE|[33]|Bytes:4
+14:01:36.0 (22319715)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"trLinkedContMap":"0x1d652b88"}|0x2cf6b328
+14:01:36.0 (22351768)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (22361498)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x45a5d9dc
+14:01:36.0 (22370439)|VARIABLE_ASSIGNMENT|[28]|this.pagemessages|[]|0x2cf6b328
+14:01:36.0 (22378561)|STATEMENT_EXECUTE|[34]
+14:01:36.0 (22386164)|HEAP_ALLOCATE|[34]|Bytes:16
+14:01:36.0 (22400476)|HEAP_ALLOCATE|[50]|Bytes:5
+14:01:36.0 (22414380)|HEAP_ALLOCATE|[56]|Bytes:5
+14:01:36.0 (22419557)|HEAP_ALLOCATE|[64]|Bytes:7
+14:01:36.0 (23828678)|HEAP_ALLOCATE|[34]|Bytes:39
+14:01:36.0 (23941336)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"pagemessages":"0x45a5d9dc","trLinkedContMap":"0x1d652b88"}|0x2cf6b328
+14:01:36.0 (23950699)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"https://arris--c.na1 (19 more) ..."
+14:01:36.0 (23960592)|VARIABLE_ASSIGNMENT|[26]|this.attDownloadLabel|"https://arris--c.na1 (19 more) ..."|0x2cf6b328
+14:01:36.0 (23969023)|STATEMENT_EXECUTE|[35]
+14:01:36.0 (24923869)|HEAP_ALLOCATE|[35]|Bytes:4
+14:01:36.0 (25048732)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","pagemessages":"0x45a5d9dc","trLinkedContMap":"0x1d652b88"}|0x2cf6b328
+14:01:36.0 (25057074)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (25066107)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x236c26cf
+14:01:36.0 (25077023)|VARIABLE_ASSIGNMENT|[16]|this.tbList|[]|0x2cf6b328
+14:01:36.0 (25083734)|STATEMENT_EXECUTE|[36]
+14:01:36.0 (25133041)|HEAP_ALLOCATE|[36]|Bytes:4
+14:01:36.0 (25219547)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","pagemessages":"0x45a5d9dc","tbList":"0x236c26cf","trLinkedContMap":"0x1d652b88"}|0x2cf6b328
+14:01:36.0 (25225458)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (25229568)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x17e16041
+14:01:36.0 (25238132)|VARIABLE_ASSIGNMENT|[17]|this.wrkList|[]|0x2cf6b328
+14:01:36.0 (25243492)|STATEMENT_EXECUTE|[37]
+14:01:36.0 (25284912)|HEAP_ALLOCATE|[37]|Bytes:4
+14:01:36.0 (25365911)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","pagemessages":"0x45a5d9dc","tbList":"0x236c26cf","trLinkedContMap":"0x1d652b88","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (25371598)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (25375616)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x7c613058
+14:01:36.0 (25382006)|VARIABLE_ASSIGNMENT|[18]|this.itSolList|[]|0x2cf6b328
+14:01:36.0 (25386808)|STATEMENT_EXECUTE|[38]
+14:01:36.0 (25413921)|HEAP_ALLOCATE|[38]|Bytes:4
+14:01:36.0 (25528561)|VARIABLE_ASSIGNMENT|[38]|this.testBtryTemp|{}|0x2cf6b328
+14:01:36.0 (25531861)|STATEMENT_EXECUTE|[42]
+14:01:36.0 (25539395)|HEAP_ALLOCATE|[42]|Bytes:24
+14:01:36.0 (25609113)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","itSolList":"0x7c613058","pagemessages":"0x45a5d9dc","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (25616004)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"Express Test New Bat (4 more) ..."
+14:01:36.0 (25623143)|VARIABLE_ASSIGNMENT|[2]|this.headerNm|"Express Test New Bat (4 more) ..."|0x2cf6b328
+14:01:36.0 (25631520)|STATEMENT_EXECUTE|[43]
+14:01:36.0 (25678082)|HEAP_ALLOCATE|[43]|Bytes:4
+14:01:36.0 (25764591)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","headerNm":"Express Test New Bat (4 more) ...","itSolList":"0x7c613058","pagemessages":"0x45a5d9dc","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (25771855)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (25776095)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x51e65c68
+14:01:36.0 (25782284)|VARIABLE_ASSIGNMENT|[22]|this.availableUsrList|[]|0x2cf6b328
+14:01:36.0 (25787797)|STATEMENT_EXECUTE|[44]
+14:01:36.0 (25805252)|HEAP_ALLOCATE|[44]|Bytes:4
+14:01:36.0 (25915767)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","itSolList":"0x7c613058","pagemessages":"0x45a5d9dc","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (25923970)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{}|0x4d19dd7d
+14:01:36.0 (25930737)|VARIABLE_ASSIGNMENT|[23]|this.lc|{}|0x2cf6b328
+14:01:36.0 (25935963)|STATEMENT_EXECUTE|[45]
+14:01:36.0 (25993045)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","itSolList":"0x7c613058","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (25999399)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|""
+14:01:36.0 (26005701)|VARIABLE_ASSIGNMENT|[3]|this.wkId|""|0x2cf6b328
+14:01:36.0 (26011371)|STATEMENT_EXECUTE|[46]
+14:01:36.0 (26020248)|VARIABLE_ASSIGNMENT|[46]|this.itSolId|""|0x2cf6b328
+14:01:36.0 (26022564)|STATEMENT_EXECUTE|[47]
+14:01:36.0 (26080855)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","itSolId":"","itSolList":"0x7c613058","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26087281)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|""
+14:01:36.0 (26093170)|VARIABLE_ASSIGNMENT|[6]|this.parentId|""|0x2cf6b328
+14:01:36.0 (26097453)|STATEMENT_EXECUTE|[48]
+14:01:36.0 (26156375)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","itSolId":"","itSolList":"0x7c613058","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26171726)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|false
+14:01:36.0 (26175969)|HEAP_ALLOCATE|[9]|Bytes:5
+14:01:36.0 (26181703)|VARIABLE_ASSIGNMENT|[9]|this.show|false|0x2cf6b328
+14:01:36.0 (26186192)|STATEMENT_EXECUTE|[49]
+14:01:36.0 (26249650)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","itSolId":"","itSolList":"0x7c613058","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26257410)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|false
+14:01:36.0 (26261013)|HEAP_ALLOCATE|[27]|Bytes:5
+14:01:36.0 (26265840)|VARIABLE_ASSIGNMENT|[27]|this.showTesters|false|0x2cf6b328
+14:01:36.0 (26270529)|STATEMENT_EXECUTE|[50]
+14:01:36.0 (26326434)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","itSolId":"","itSolList":"0x7c613058","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"showTesters":false,"tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26333358)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|true
+14:01:36.0 (26336702)|HEAP_ALLOCATE|[10]|Bytes:5
+14:01:36.0 (26343300)|VARIABLE_ASSIGNMENT|[10]|this.showSave|true|0x2cf6b328
+14:01:36.0 (26348157)|STATEMENT_EXECUTE|[51]
+14:01:36.0 (26353599)|HEAP_ALLOCATE|[51]|Bytes:5
+14:01:36.0 (26357638)|VARIABLE_ASSIGNMENT|[51]|this.insertAct|true|0x2cf6b328
+14:01:36.0 (26359141)|STATEMENT_EXECUTE|[52]
+14:01:36.0 (26419608)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"showSave":true,"showTesters":false,"tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26426652)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|false
+14:01:36.0 (26430132)|HEAP_ALLOCATE|[8]|Bytes:5
+14:01:36.0 (26435242)|VARIABLE_ASSIGNMENT|[8]|this.wrkLdReadonly|false|0x2cf6b328
+14:01:36.0 (26439751)|STATEMENT_EXECUTE|[53]
+14:01:36.0 (26496751)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"showSave":true,"showTesters":false,"tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26502459)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|""
+14:01:36.0 (26508279)|VARIABLE_ASSIGNMENT|[13]|this.wrkLdName|""|0x2cf6b328
+14:01:36.0 (26512622)|STATEMENT_EXECUTE|[54]
+14:01:36.0 (26574596)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"showSave":true,"showTesters":false,"tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26581351)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|""
+14:01:36.0 (26587182)|VARIABLE_ASSIGNMENT|[14]|this.itSolName|""|0x2cf6b328
+14:01:36.0 (26591516)|STATEMENT_EXECUTE|[55]
+14:01:36.0 (26598315)|VARIABLE_SCOPE_BEGIN|[55]|tbID|String|false|false
+14:01:36.0 (26603937)|VARIABLE_ASSIGNMENT|[55]|tbID|""
+14:01:36.0 (26605421)|STATEMENT_EXECUTE|[56]
+14:01:36.0 (26662897)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"showSave":true,"showTesters":false,"tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26669546)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|""
+14:01:36.0 (26674548)|VARIABLE_ASSIGNMENT|[21]|this.delTCID|""|0x2cf6b328
+14:01:36.0 (26678624)|STATEMENT_EXECUTE|[57]
+14:01:36.0 (26736624)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"showSave":true,"showTesters":false,"tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26743830)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|false
+14:01:36.0 (26747134)|HEAP_ALLOCATE|[19]|Bytes:5
+14:01:36.0 (26751749)|VARIABLE_ASSIGNMENT|[19]|this.attachfileSection|false|0x2cf6b328
+14:01:36.0 (26756243)|STATEMENT_EXECUTE|[58]
+14:01:36.0 (26764327)|VARIABLE_ASSIGNMENT|[58]|this.source|""|0x2cf6b328
+14:01:36.0 (26765898)|STATEMENT_EXECUTE|[59]
+14:01:36.0 (26779644)|HEAP_ALLOCATE|[59]|Bytes:4
+14:01:36.0 (26794088)|VARIABLE_SCOPE_BEGIN|[59]|dl|Doc_Line__c|true|false
+14:01:36.0 (26801787)|VARIABLE_ASSIGNMENT|[59]|dl|{}|0x380fc776
+14:01:36.0 (26803797)|STATEMENT_EXECUTE|[60]
+14:01:36.0 (26809729)|HEAP_ALLOCATE|[60]|Bytes:4
+14:01:36.0 (26887200)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"showSave":true,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","trLinkedContMap":"0x1d652b88","wkId":"","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (26895351)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (26900378)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x5944001b
+14:01:36.0 (26907197)|VARIABLE_ASSIGNMENT|[20]|this.testCasesList|[]|0x2cf6b328
+14:01:36.0 (26912412)|STATEMENT_EXECUTE|[62]
+14:01:36.0 (26950410)|HEAP_ALLOCATE|[62]|Bytes:4
+14:01:36.0 (26994720)|VARIABLE_SCOPE_BEGIN|[62]|rt|RecordType|true|false
+14:01:36.0 (27002969)|VARIABLE_ASSIGNMENT|[62]|rt|{}|0x3a220247
+14:01:36.0 (27005475)|STATEMENT_EXECUTE|[63]
+14:01:36.0 (27011987)|HEAP_ALLOCATE|[63]|Bytes:93
+14:01:36.0 (27020394)|HEAP_ALLOCATE|[63]|Bytes:4
+14:01:36.0 (27369898)|SOQL_EXECUTE_BEGIN|[63]|Aggregations:0|SELECT id, Name FROM RecordType WHERE (SobjectType = 'Doc_Line__c' AND Name = 'Express Test')
+14:01:36.0 (52451417)|SOQL_EXECUTE_END|[63]|Rows:1
+14:01:36.0 (52482547)|HEAP_ALLOCATE|[63]|Bytes:8
+14:01:36.0 (52500665)|HEAP_ALLOCATE|[63]|Bytes:53
+14:01:36.0 (52584726)|HEAP_ALLOCATE|[63]|Bytes:8
+14:01:36.0 (52603075)|HEAP_ALLOCATE|[63]|Bytes:36
+14:01:36.0 (52665506)|HEAP_ALLOCATE|[63]|Bytes:12
+14:01:36.0 (52698181)|VARIABLE_ASSIGNMENT|[63]|rt|{"Id":"012n00000004daNAAQ","Name":"Express Test"}|0x4be787e
+14:01:36.0 (52703420)|STATEMENT_EXECUTE|[65]
+14:01:36.0 (52829483)|HEAP_ALLOCATE|[65]|Bytes:51
+14:01:36.0 (52898450)|HEAP_ALLOCATE|[65]|Bytes:20
+14:01:36.0 (52929570)|HEAP_ALLOCATE|[65]|Bytes:1
+14:01:36.0 (52959300)|VARIABLE_SCOPE_BEGIN|[65]|temp1|String|false|false
+14:01:36.0 (52970577)|VARIABLE_ASSIGNMENT|[65]|temp1|null
+14:01:36.0 (52979038)|STATEMENT_EXECUTE|[66]
+14:01:36.0 (52986720)|STATEMENT_EXECUTE|[70]
+14:01:36.0 (53017419)|HEAP_ALLOCATE|[70]|Bytes:51
+14:01:36.0 (53044431)|HEAP_ALLOCATE|[70]|Bytes:20
+14:01:36.0 (53056703)|HEAP_ALLOCATE|[70]|Bytes:2
+14:01:36.0 (53072549)|VARIABLE_SCOPE_BEGIN|[70]|temp2|String|false|false
+14:01:36.0 (53084093)|VARIABLE_ASSIGNMENT|[70]|temp2|null
+14:01:36.0 (53089459)|STATEMENT_EXECUTE|[71]
+14:01:36.0 (53096714)|STATEMENT_EXECUTE|[75]
+14:01:36.0 (53122465)|HEAP_ALLOCATE|[75]|Bytes:51
+14:01:36.0 (53143914)|HEAP_ALLOCATE|[75]|Bytes:20
+14:01:36.0 (53155538)|HEAP_ALLOCATE|[75]|Bytes:2
+14:01:36.0 (53172493)|VARIABLE_SCOPE_BEGIN|[75]|temp3|String|false|false
+14:01:36.0 (53181310)|VARIABLE_ASSIGNMENT|[75]|temp3|"a5Hn00000003facEAA"
+14:01:36.0 (53207249)|STATEMENT_EXECUTE|[76]
+14:01:36.0 (53209772)|STATEMENT_EXECUTE|[77]
+14:01:36.0 (53221679)|VARIABLE_ASSIGNMENT|[77]|tbID|"a5Hn00000003facEAA"
+14:01:36.0 (53224418)|STATEMENT_EXECUTE|[78]
+14:01:36.0 (53407726)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":false,"showSave":true,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (53423355)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|true
+14:01:36.0 (53431678)|HEAP_ALLOCATE|[9]|Bytes:5
+14:01:36.0 (53449397)|VARIABLE_ASSIGNMENT|[9]|this.show|true|0x2cf6b328
+14:01:36.0 (53461940)|STATEMENT_EXECUTE|[79]
+14:01:36.0 (53583471)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":true,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (53597295)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|false
+14:01:36.0 (53603841)|HEAP_ALLOCATE|[10]|Bytes:5
+14:01:36.0 (53614856)|VARIABLE_ASSIGNMENT|[10]|this.showSave|false|0x2cf6b328
+14:01:36.0 (53625121)|STATEMENT_EXECUTE|[80]
+14:01:36.0 (53635098)|HEAP_ALLOCATE|[80]|Bytes:185
+14:01:36.0 (53646292)|HEAP_ALLOCATE|[80]|Bytes:4
+14:01:36.0 (53663914)|HEAP_ALLOCATE|[80]|Bytes:7
+14:01:36.0 (53683673)|HEAP_ALLOCATE|[80]|Bytes:7
+14:01:36.0 (61007048)|SOQL_EXECUTE_BEGIN|[80]|Aggregations:0|SELECT id, Name__c, Description__c, Status__c, Workload__c, workload__r.Name__C, Saas_Profile__c, Saas_Profile__r.Name FROM Doc_Line__c WHERE (id = :tmpVar1 AND recordTypeId = :tmpVar2)
+14:01:36.0 (72068442)|SOQL_EXECUTE_END|[80]|Rows:1
+14:01:36.0 (72095735)|HEAP_ALLOCATE|[80]|Bytes:8
+14:01:36.0 (72116602)|HEAP_ALLOCATE|[80]|Bytes:527
+14:01:36.0 (72157938)|HEAP_ALLOCATE|[80]|Bytes:8
+14:01:36.0 (72169664)|HEAP_ALLOCATE|[80]|Bytes:37
+14:01:36.0 (72197625)|HEAP_ALLOCATE|[80]|Bytes:44
+14:01:36.0 (72226184)|VARIABLE_ASSIGNMENT|[80]|dl|{"Id":"a5Hn00000003facEAA","Name__c":"MFN Test Battery","Description__c":"test","Status__c":"Draft","Workload__c":"a14a000000FLaLMAA1","SAAS_Profile__c":"a11a000000FoSJGAA3","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD","Workload__r":{"Name__c":"MFN Analysis Tool -  (22 more) ...","Id":"a14a000000FLaLMAA1","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},"SAAS_Profile__r":{"Name":"Most Favored Nation  (10 more) ...","Id":"a11a000000FoSJGAA3","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"}}|0x737a24e9
+14:01:36.0 (72254341)|STATEMENT_EXECUTE|[81]
+14:01:36.0 (72256327)|STATEMENT_EXECUTE|[82]
+14:01:36.0 (72280786)|HEAP_ALLOCATE|[82]|Bytes:18
+14:01:36.0 (72426395)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (72434424)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"a14a000000FLaLMAA1"
+14:01:36.0 (72448335)|VARIABLE_ASSIGNMENT|[3]|this.wkId|"a14a000000FLaLMAA1"|0x2cf6b328
+14:01:36.0 (72473780)|STATEMENT_EXECUTE|[84]
+14:01:36.0 (72475437)|STATEMENT_EXECUTE|[85]
+14:01:36.0 (72484635)|HEAP_ALLOCATE|[85]|Bytes:18
+14:01:36.0 (72494011)|VARIABLE_ASSIGNMENT|[85]|this.itSolId|"a11a000000FoSJGAA3"|0x2cf6b328
+14:01:36.0 (72501151)|STATEMENT_EXECUTE|[87]
+14:01:36.0 (72525443)|METHOD_ENTRY|[87]|01pn0000000BU18|ExpressTestNewBatteryController.availableUsr()
+14:01:36.0 (72537655)|VARIABLE_SCOPE_BEGIN|[161]|this|ExpressTestNewBatteryController|true|false
+14:01:36.0 (72593305)|VARIABLE_ASSIGNMENT|[161]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (72602408)|STATEMENT_EXECUTE|[161]
+14:01:36.0 (72603988)|STATEMENT_EXECUTE|[162]
+14:01:36.0 (72609635)|HEAP_ALLOCATE|[162]|Bytes:144
+14:01:36.0 (72622190)|HEAP_ALLOCATE|[162]|Bytes:4
+14:01:36.0 (72693974)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (78816685)|SOQL_EXECUTE_BEGIN|[162]|Aggregations:0|SELECT id, Resource_Name__r.Name FROM Linked_Contact__c WHERE (Resource_Name__c != NULL AND Include_in_UAT__c = TRUE AND Workload__c = :tmpVar1)
+14:01:36.0 (87244241)|SOQL_EXECUTE_END|[162]|Rows:4
+14:01:36.0 (87285334)|HEAP_ALLOCATE|[162]|Bytes:20
+14:01:36.0 (87351244)|HEAP_ALLOCATE|[162]|Bytes:1027
+14:01:36.0 (87434395)|HEAP_ALLOCATE|[162]|Bytes:20
+14:01:36.0 (87659670)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x51e65c68","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (87721811)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[{"Id":"a4fn00000004aDzAAI","Resource_Name__c":"003a000001bfWgBAAU","RecordTypeId":"012a0000001RS2HAAW","CurrencyIsoCode":"USD","Resource_Name__r":{"Name":"Manish Garg","Id":"003a000001bfWgBAAU","RecordTypeId":"012a00000018I6DAAU","CurrencyIsoCode":"USD"}},{"Id":"a4fn00000004aE4AAI","Resource_Name__c":"003a000001r95LuAAI","RecordTypeId":"012a0000001RS2HAAW","CurrencyIsoCode":"USD","Resource_Name__r":{"Name":"Swathi Uppalapati","Id":"003a000001r95LuAAI","RecordTypeId":"012a00000018I6DAAU","CurrencyIsoCode":"USD"}},{"Id":"a4fn00000004aKHAAY","Resource_Name__c":"003a00000234OowAAE","RecordTypeId":"012a0000001RS2HAAW","CurrencyIsoCode":"USD","Resource_Name__r":{"Name":"Pallavi Bhari","Id":"003a00000234OowAAE","RecordTypeId":"01230000000PwNnAAK","CurrencyIsoCode":"USD"}},{"Id":"a4fn00000004bPBAAY","Resource_Name__c":"0033000000fxbMkAAI","RecordTypeId":"012a0000001RS2HAAW","CurrencyIsoCode":"USD","Resource_Name__r":{"Name":"Karl Drahovsky","Id":"0033000000fxbMkAAI","RecordTypeId":"012a00000018I6DAAU","CurrencyIsoCode":"USD"}}]|0x6c254fec
+14:01:36.0 (87873686)|VARIABLE_ASSIGNMENT|[22]|this.availableUsrList|[{"Id":"a4fn00000004aDzAAI","Resource_Name__c":"003a000001bfWgBAAU","RecordTypeId":"012a0000001RS2HAAW","CurrencyIsoCode":"USD","Resource_Name__r":{"Name":"Manish Garg","Id":"003a000001bfWgBAAU","RecordTypeId":"012a00000018I6DAAU","CurrencyIsoCode":"USD"}},{"Id":"a4fn00000004aE4AAI","Resource_Name__c":"003a000001r95LuAAI","RecordTypeId":"012a0000001RS2HAAW","CurrencyIsoCode":"USD","Resource_Name__r":{"Name":"Swathi Uppalapati","Id":"003a000001r95LuAAI","RecordTypeId":"012a00000018I6DAAU","CurrencyIsoCode":"USD"}},{"Id":"a4fn00000004aKHAAY","Resource_Name__c":"003a00000234OowAAE","RecordTypeId":"012a0000001RS2HAAW","CurrencyIsoCode":"USD","Resource_Name__r":{"Name":"Pallavi Bhari","Id":"003a00000234OowAAE","RecordTypeId":"01230000000PwNnAAK","CurrencyIsoCode":"USD"}},{"Id":"a4fn00000004bPBAAY","Resource_Name__c":"0033000000fxbMkAAI","RecordTypeId":"012a0000001RS2HAAW","CurrencyIsoCode":"USD","Resource_Name__r":{"Name":"Karl Drahovsky","Id":"0033000000fxbMkAAI","RecordTypeId":"012a00000018I6DAAU","CurrencyIsoCode":"USD"}}]|0x2cf6b328
+14:01:36.0 (87910046)|METHOD_EXIT|[87]|01pn0000000BU18|ExpressTestNewBatteryController.availableUsr()
+14:01:36.0 (87918998)|STATEMENT_EXECUTE|[89]
+14:01:36.0 (87937586)|HEAP_ALLOCATE|[89]|Bytes:4
+14:01:36.0 (87975683)|VARIABLE_SCOPE_BEGIN|[89]|wlList|List<Workload__c>|true|false
+14:01:36.0 (87985213)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (87992724)|VARIABLE_ASSIGNMENT|[89]|wlList|[]|0x51ac0014
+14:01:36.0 (88108585)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (88249860)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (88274010)|STATEMENT_EXECUTE|[90]
+14:01:36.0 (88276099)|STATEMENT_EXECUTE|[91]
+14:01:36.0 (88360509)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (88396077)|METHOD_ENTRY|[91]|01pn0000000BU18|ExpressTestNewBatteryController.wrkLd(String)
+14:01:36.0 (88401257)|VARIABLE_SCOPE_BEGIN|[144]|this|ExpressTestNewBatteryController|true|false
+14:01:36.0 (88451494)|VARIABLE_ASSIGNMENT|[144]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (88457099)|VARIABLE_SCOPE_BEGIN|[144]|wkId|String|false|false
+14:01:36.0 (88460117)|VARIABLE_ASSIGNMENT|[144]|wkId|"a14a000000FLaLMAA1"
+14:01:36.0 (88465892)|STATEMENT_EXECUTE|[144]
+14:01:36.0 (88467490)|STATEMENT_EXECUTE|[145]
+14:01:36.0 (88475774)|HEAP_ALLOCATE|[145]|Bytes:4
+14:01:36.0 (88494714)|VARIABLE_SCOPE_BEGIN|[145]|wlList|List<Workload__c>|true|false
+14:01:36.0 (88499592)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (88504929)|VARIABLE_ASSIGNMENT|[145]|wlList|[]|0x62aed344
+14:01:36.0 (88507080)|STATEMENT_EXECUTE|[146]
+14:01:36.0 (88524095)|HEAP_ALLOCATE|[146]|Bytes:78
+14:01:36.0 (88532405)|HEAP_ALLOCATE|[146]|Bytes:4
+14:01:36.0 (88962918)|SOQL_EXECUTE_BEGIN|[146]|Aggregations:0|SELECT id, name, Name__C, SAAS_Profile__c FROM Workload__c WHERE id = :tmpVar1
+14:01:36.0 (92299352)|SOQL_EXECUTE_END|[146]|Rows:1
+14:01:36.0 (92333687)|HEAP_ALLOCATE|[146]|Bytes:8
+14:01:36.0 (92361603)|HEAP_ALLOCATE|[146]|Bytes:198
+14:01:36.0 (92424125)|HEAP_ALLOCATE|[146]|Bytes:8
+14:01:36.0 (92487176)|VARIABLE_ASSIGNMENT|[146]|wlList|[{"Id":"a14a000000FLaLMAA1","Name":"WorkID-6429","Name__c":"MFN Analysis Tool -  (22 more) ...","SAAS_Profile__c":"a11a000000FoSJGAA3","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"}]|0x756a6036
+14:01:36.0 (92494150)|STATEMENT_EXECUTE|[147]
+14:01:36.0 (92507384)|HEAP_ALLOCATE|[147]|Bytes:31
+14:01:36.0 (92559936)|HEAP_ALLOCATE|[147]|Bytes:28
+14:01:36.0 (92616808)|HEAP_ALLOCATE|[147]|Bytes:73
+14:01:36.0 (92804283)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Express Test New Bat (4 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (92819262)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"Add Test Battery for (53 more) ..."
+14:01:36.0 (92844125)|VARIABLE_ASSIGNMENT|[2]|this.headerNm|"Add Test Battery for (53 more) ..."|0x2cf6b328
+14:01:36.0 (92858113)|STATEMENT_EXECUTE|[148]
+14:01:36.0 (92875875)|HEAP_ALLOCATE|[148]|Bytes:28
+14:01:36.0 (92989323)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (53 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (93001913)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"MFN Analysis Tool -  (22 more) ..."
+14:01:36.0 (93017635)|VARIABLE_ASSIGNMENT|[13]|this.wrkLdName|"MFN Analysis Tool -  (22 more) ..."|0x2cf6b328
+14:01:36.0 (93026827)|STATEMENT_EXECUTE|[149]
+14:01:36.0 (93039658)|METHOD_EXIT|[91]|01pn0000000BU18|ExpressTestNewBatteryController.wrkLd(String)
+14:01:36.0 (93061954)|VARIABLE_ASSIGNMENT|[91]|wlList|[{"Id":"a14a000000FLaLMAA1","Name":"WorkID-6429","Name__c":"MFN Analysis Tool -  (22 more) ...","SAAS_Profile__c":"a11a000000FoSJGAA3","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"}]|0x756a6036
+14:01:36.0 (93066212)|STATEMENT_EXECUTE|[92]
+14:01:36.0 (93166566)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (53 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":false,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (93183204)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|true
+14:01:36.0 (93189595)|HEAP_ALLOCATE|[27]|Bytes:5
+14:01:36.0 (93201002)|VARIABLE_ASSIGNMENT|[27]|this.showTesters|true|0x2cf6b328
+14:01:36.0 (93210844)|STATEMENT_EXECUTE|[94]
+14:01:36.0 (93224553)|HEAP_ALLOCATE|[94]|Bytes:4
+14:01:36.0 (93257219)|VARIABLE_SCOPE_BEGIN|[94]|spList|List<SAAS_Profile__c>|true|false
+14:01:36.0 (93267442)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (93275470)|VARIABLE_ASSIGNMENT|[94]|spList|[]|0x23323d4e
+14:01:36.0 (93299993)|STATEMENT_EXECUTE|[95]
+14:01:36.0 (93302260)|STATEMENT_EXECUTE|[96]
+14:01:36.0 (93337710)|METHOD_ENTRY|[96]|01pn0000000BU18|ExpressTestNewBatteryController.itSol(String)
+14:01:36.0 (93354293)|VARIABLE_SCOPE_BEGIN|[151]|this|ExpressTestNewBatteryController|true|false
+14:01:36.0 (93440388)|VARIABLE_ASSIGNMENT|[151]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (53 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (93447719)|VARIABLE_SCOPE_BEGIN|[151]|itSolId|String|false|false
+14:01:36.0 (93452329)|VARIABLE_ASSIGNMENT|[151]|itSolId|"a11a000000FoSJGAA3"
+14:01:36.0 (93459540)|STATEMENT_EXECUTE|[151]
+14:01:36.0 (93461782)|STATEMENT_EXECUTE|[152]
+14:01:36.0 (93471125)|HEAP_ALLOCATE|[152]|Bytes:4
+14:01:36.0 (93493657)|VARIABLE_SCOPE_BEGIN|[152]|spList|List<SAAS_Profile__c>|true|false
+14:01:36.0 (93499736)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (93506756)|VARIABLE_ASSIGNMENT|[152]|spList|[]|0x3292f96e
+14:01:36.0 (93509781)|STATEMENT_EXECUTE|[153]
+14:01:36.0 (93517618)|HEAP_ALLOCATE|[153]|Bytes:56
+14:01:36.0 (93526679)|HEAP_ALLOCATE|[153]|Bytes:4
+14:01:36.0 (93877626)|SOQL_EXECUTE_BEGIN|[153]|Aggregations:0|SELECT Id, Name FROM SAAS_Profile__c WHERE Id = :tmpVar1
+14:01:36.0 (96687896)|SOQL_EXECUTE_END|[153]|Rows:1
+14:01:36.0 (96710094)|HEAP_ALLOCATE|[153]|Bytes:8
+14:01:36.0 (96726191)|HEAP_ALLOCATE|[153]|Bytes:127
+14:01:36.0 (96766408)|HEAP_ALLOCATE|[153]|Bytes:8
+14:01:36.0 (96802822)|VARIABLE_ASSIGNMENT|[153]|spList|[{"Id":"a11a000000FoSJGAA3","Name":"Most Favored Nation  (10 more) ...","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"}]|0x37450b88
+14:01:36.0 (96828539)|STATEMENT_EXECUTE|[154]
+14:01:36.0 (96830391)|STATEMENT_EXECUTE|[155]
+14:01:36.0 (96838805)|HEAP_ALLOCATE|[155]|Bytes:34
+14:01:36.0 (96877330)|HEAP_ALLOCATE|[155]|Bytes:20
+14:01:36.0 (96911960)|HEAP_ALLOCATE|[155]|Bytes:64
+14:01:36.0 (97038869)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (53 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (97048450)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"Add Test Battery for (44 more) ..."
+14:01:36.0 (97058344)|VARIABLE_ASSIGNMENT|[2]|this.headerNm|"Add Test Battery for (44 more) ..."|0x2cf6b328
+14:01:36.0 (97066418)|STATEMENT_EXECUTE|[156]
+14:01:36.0 (97080228)|HEAP_ALLOCATE|[156]|Bytes:20
+14:01:36.0 (97159418)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (97171849)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"Most Favored Nation  (10 more) ..."
+14:01:36.0 (97180409)|VARIABLE_ASSIGNMENT|[14]|this.itSolName|"Most Favored Nation  (10 more) ..."|0x2cf6b328
+14:01:36.0 (97186062)|STATEMENT_EXECUTE|[157]
+14:01:36.0 (97254155)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":false,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (97264751)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|true
+14:01:36.0 (97268498)|HEAP_ALLOCATE|[8]|Bytes:5
+14:01:36.0 (97275000)|VARIABLE_ASSIGNMENT|[8]|this.wrkLdReadonly|true|0x2cf6b328
+14:01:36.0 (97280303)|STATEMENT_EXECUTE|[159]
+14:01:36.0 (97288194)|METHOD_EXIT|[96]|01pn0000000BU18|ExpressTestNewBatteryController.itSol(String)
+14:01:36.0 (97301893)|VARIABLE_ASSIGNMENT|[96]|spList|[{"Id":"a11a000000FoSJGAA3","Name":"Most Favored Nation  (10 more) ...","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"}]|0x37450b88
+14:01:36.0 (97305472)|STATEMENT_EXECUTE|[99]
+14:01:36.0 (97323608)|HEAP_ALLOCATE|[99]|Bytes:4
+14:01:36.0 (97423063)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (97433846)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{}|0x66c7ca33
+14:01:36.0 (97442881)|VARIABLE_ASSIGNMENT|[5]|this.testBtry|{}|0x2cf6b328
+14:01:36.0 (97448430)|STATEMENT_EXECUTE|[100]
+14:01:36.0 (97521870)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x66c7ca33","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (97590020)|VARIABLE_ASSIGNMENT|[100]|this.RecordTypeId|"012n00000004daNAAQ"|0x66c7ca33
+14:01:36.0 (97593333)|STATEMENT_EXECUTE|[101]
+14:01:36.0 (97600183)|HEAP_ALLOCATE|[101]|Bytes:5
+14:01:36.0 (97667701)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x66c7ca33","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (97713417)|VARIABLE_ASSIGNMENT|[101]|this.Status__c|"Draft"|0x66c7ca33
+14:01:36.0 (97752949)|STATEMENT_EXECUTE|[102]
+14:01:36.0 (97754628)|STATEMENT_EXECUTE|[103]
+14:01:36.0 (97767188)|HEAP_ALLOCATE|[103]|Bytes:28
+14:01:36.0 (97851248)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x66c7ca33","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (97898934)|VARIABLE_ASSIGNMENT|[103]|this.Workload__c|"a14a000000FLaLMAA1"|0x66c7ca33
+14:01:36.0 (97901742)|STATEMENT_EXECUTE|[104]
+14:01:36.0 (97913356)|HEAP_ALLOCATE|[104]|Bytes:28
+14:01:36.0 (97993455)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x66c7ca33","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98030292)|VARIABLE_ASSIGNMENT|[104]|this.SAAS_Profile__c|"a11a000000FoSJGAA3"|0x66c7ca33
+14:01:36.0 (98053768)|STATEMENT_EXECUTE|[106]
+14:01:36.0 (98055424)|STATEMENT_EXECUTE|[107]
+14:01:36.0 (98065800)|HEAP_ALLOCATE|[107]|Bytes:20
+14:01:36.0 (98146623)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x66c7ca33","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98186306)|VARIABLE_ASSIGNMENT|[107]|this.SAAS_Profile__c|"a11a000000FoSJGAA3"|0x66c7ca33
+14:01:36.0 (98202475)|STATEMENT_EXECUTE|[109]
+14:01:36.0 (98203896)|STATEMENT_EXECUTE|[110]
+14:01:36.0 (98216735)|HEAP_ALLOCATE|[110]|Bytes:4
+14:01:36.0 (98293670)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x66c7ca33","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98302610)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{}|0x4df58c9c
+14:01:36.0 (98310194)|VARIABLE_ASSIGNMENT|[5]|this.testBtry|{}|0x2cf6b328
+14:01:36.0 (98315605)|STATEMENT_EXECUTE|[111]
+14:01:36.0 (98376735)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x4df58c9c","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98403869)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{"Id":"a5Hn00000003facEAA","Name__c":"MFN Test Battery","Description__c":"test","Status__c":"Draft","Workload__c":"a14a000000FLaLMAA1","SAAS_Profile__c":"a11a000000FoSJGAA3","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD","Workload__r":{"Name__c":"MFN Analysis Tool -  (22 more) ...","Id":"a14a000000FLaLMAA1","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},"SAAS_Profile__r":{"Name":"Most Favored Nation  (10 more) ...","Id":"a11a000000FoSJGAA3","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"}}|0x737a24e9
+14:01:36.0 (98422724)|VARIABLE_ASSIGNMENT|[5]|this.testBtry|{"Id":"a5Hn00000003facEAA","Name__c":"MFN Test Battery","Description__c":"test","Status__c":"Draft","Workload__c":"a14a000000FLaLMAA1","SAAS_Profile__c":"a11a000000FoSJGAA3","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD","Workload__r":{"Name__c":"MFN Analysis Tool -  (22 more) ...","Id":"a14a000000FLaLMAA1","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},"SAAS_Profile__r":{"Name":"Most Favored Nation  (10 more) ...","Id":"a11a000000FoSJGAA3","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"}}|0x2cf6b328
+14:01:36.0 (98429809)|STATEMENT_EXECUTE|[112]
+14:01:36.0 (98435784)|HEAP_ALLOCATE|[112]|Bytes:15
+14:01:36.0 (98497153)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98528590)|HEAP_ALLOCATE|[112]|Bytes:31
+14:01:36.0 (98584463)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Add Test Battery for (44 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98593227)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"Test Battery : MFN T (11 more) ..."
+14:01:36.0 (98599460)|VARIABLE_ASSIGNMENT|[2]|this.headerNm|"Test Battery : MFN T (11 more) ..."|0x2cf6b328
+14:01:36.0 (98604078)|STATEMENT_EXECUTE|[113]
+14:01:36.0 (98710399)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98718566)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"MFN Analysis Tool -  (22 more) ..."
+14:01:36.0 (98725920)|VARIABLE_ASSIGNMENT|[13]|this.wrkLdName|"MFN Analysis Tool -  (22 more) ..."|0x2cf6b328
+14:01:36.0 (98731420)|STATEMENT_EXECUTE|[114]
+14:01:36.0 (98831228)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98839407)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"Most Favored Nation  (10 more) ..."
+14:01:36.0 (98845450)|VARIABLE_ASSIGNMENT|[14]|this.itSolName|"Most Favored Nation  (10 more) ..."|0x2cf6b328
+14:01:36.0 (98851120)|STATEMENT_EXECUTE|[115]
+14:01:36.0 (98875278)|METHOD_ENTRY|[115]|01pn0000000BU18|ExpressTestNewBatteryController.relatedTC()
+14:01:36.0 (98885972)|VARIABLE_SCOPE_BEGIN|[283]|this|ExpressTestNewBatteryController|true|false
+14:01:36.0 (98940626)|VARIABLE_ASSIGNMENT|[283]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (98949487)|STATEMENT_EXECUTE|[283]
+14:01:36.0 (98950751)|STATEMENT_EXECUTE|[284]
+14:01:36.0 (99090639)|HEAP_ALLOCATE|[284]|Bytes:4
+14:01:36.0 (99227396)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (99252655)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (99259467)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x15bb5143
+14:01:36.0 (99267931)|VARIABLE_ASSIGNMENT|[282]|this.tcList|[]|0x2cf6b328
+14:01:36.0 (99274459)|STATEMENT_EXECUTE|[285]
+14:01:36.0 (99282313)|HEAP_ALLOCATE|[285]|Bytes:91
+14:01:36.0 (99288732)|HEAP_ALLOCATE|[285]|Bytes:4
+14:01:36.0 (99490438)|SOQL_EXECUTE_BEGIN|[285]|Aggregations:0|SELECT Id FROM RecordType WHERE (SobjectType = 'Doc_Line__c' AND Name = 'Test-User or UAT')
+14:01:36.0 (103799517)|SOQL_EXECUTE_END|[285]|Rows:1
+14:01:36.0 (103825736)|HEAP_ALLOCATE|[285]|Bytes:8
+14:01:36.0 (103839960)|HEAP_ALLOCATE|[285]|Bytes:33
+14:01:36.0 (103863769)|HEAP_ALLOCATE|[285]|Bytes:8
+14:01:36.0 (103902100)|HEAP_ALLOCATE|[285]|Bytes:8
+14:01:36.0 (103921729)|HEAP_ALLOCATE|[285]|Bytes:18
+14:01:36.0 (103928941)|VARIABLE_SCOPE_BEGIN|[285]|tcRTID|String|false|false
+14:01:36.0 (103941389)|VARIABLE_ASSIGNMENT|[285]|tcRTID|"012a0000001FtdmAAC"
+14:01:36.0 (103945369)|STATEMENT_EXECUTE|[286]
+14:01:36.0 (103956608)|HEAP_ALLOCATE|[286]|Bytes:4
+14:01:36.0 (104099226)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x5944001b","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (104110550)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (104118287)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x13f03ed0
+14:01:36.0 (104129832)|VARIABLE_ASSIGNMENT|[20]|this.testCasesList|[]|0x2cf6b328
+14:01:36.0 (104138700)|STATEMENT_EXECUTE|[287]
+14:01:36.0 (104146498)|HEAP_ALLOCATE|[287]|Bytes:224
+14:01:36.0 (104152985)|HEAP_ALLOCATE|[287]|Bytes:4
+14:01:36.0 (104234399)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x13f03ed0","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (106869542)|SOQL_EXECUTE_BEGIN|[287]|Aggregations:1|SELECT id, Name, Name__c, Status__c, Pass_Fail__c, Line_Order__c, (SELECT id FROM Test_Results__r) FROM Doc_Line__c WHERE (Parent_Express_Test__c = :tmpVar1 AND recordTypeId = :tmpVar2) ORDER BY Line_Order__c ASC NULLS FIRST
+14:01:36.0 (114449880)|SOQL_EXECUTE_END|[287]|Rows:5
+14:01:36.0 (114497294)|HEAP_ALLOCATE|[287]|Bytes:24
+14:01:36.0 (114556064)|HEAP_ALLOCATE|[287]|Bytes:1987
+14:01:36.0 (114582796)|HEAP_ALLOCATE|[287]|Bytes:24
+14:01:36.0 (114755133)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x13f03ed0","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (114816796)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[{"Id":"a5Hn00000003fsgEAA","Name":"DID-14699","Name__c":"Login To Salesforce. (3 more) ...","Status__c":"UA Testing In Progre (2 more) ...","Line_Order__c":1.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIuZAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIvIAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]},{"Id":"a5Hn00000003fshEAA","Name":"DID-14700","Name__c":"test4","Status__c":"Not Started","Line_Order__c":2.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIwpAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIxJAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]},{"Id":"a5Hn00000003fsiEAA","Name":"DID-14701","Name__c":"test5","Status__c":"Not Started","Line_Order__c":3.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003fsqEAA","Name":"DID-14702","Name__c":"new draft","Status__c":"Draft","Line_Order__c":3.50,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsqEAA","Id":"a30n0000000hIx9AAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]},{"Id":"a5Hn00000003fuDEAQ","Name":"DID-14703","Name__c":"test new","Status__c":"Ready For UA Testing","Line_Order__c":4.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIyWAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIygAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}]|0x379e83c5
+14:01:36.0 (114879865)|VARIABLE_ASSIGNMENT|[20]|this.testCasesList|[{"Id":"a5Hn00000003fsgEAA","Name":"DID-14699","Name__c":"Login To Salesforce. (3 more) ...","Status__c":"UA Testing In Progre (2 more) ...","Line_Order__c":1.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIuZAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIvIAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]},{"Id":"a5Hn00000003fshEAA","Name":"DID-14700","Name__c":"test4","Status__c":"Not Started","Line_Order__c":2.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIwpAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIxJAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]},{"Id":"a5Hn00000003fsiEAA","Name":"DID-14701","Name__c":"test5","Status__c":"Not Started","Line_Order__c":3.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003fsqEAA","Name":"DID-14702","Name__c":"new draft","Status__c":"Draft","Line_Order__c":3.50,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsqEAA","Id":"a30n0000000hIx9AAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]},{"Id":"a5Hn00000003fuDEAQ","Name":"DID-14703","Name__c":"test new","Status__c":"Ready For UA Testing","Line_Order__c":4.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIyWAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIygAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}]|0x2cf6b328
+14:01:36.0 (114989319)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (115175943)|HEAP_ALLOCATE|[288]|Bytes:5
+14:01:36.0 (115208888)|HEAP_ALLOCATE|[288]|Bytes:36
+14:01:36.0 (115219698)|VARIABLE_SCOPE_BEGIN|[288]|tc|Doc_Line__c|true|false
+14:01:36.0 (115241183)|VARIABLE_ASSIGNMENT|[288]|tc|{"Id":"a5Hn00000003fsgEAA","Name":"DID-14699","Name__c":"Login To Salesforce. (3 more) ...","Status__c":"UA Testing In Progre (2 more) ...","Line_Order__c":1.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIuZAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIvIAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x2a81017
+14:01:36.0 (115248027)|STATEMENT_EXECUTE|[288]
+14:01:36.0 (115250375)|STATEMENT_EXECUTE|[289]
+14:01:36.0 (115292408)|HEAP_ALLOCATE|[289]|Bytes:4
+14:01:36.0 (115361245)|VARIABLE_SCOPE_BEGIN|[289]|trList|List<Test_Results__c>|true|false
+14:01:36.0 (115369169)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (115377061)|VARIABLE_ASSIGNMENT|[289]|trList|[]|0x602581b6
+14:01:36.0 (115383448)|HEAP_ALLOCATE|[290]|Bytes:15
+14:01:36.0 (115386789)|HEAP_ALLOCATE|[290]|Bytes:15
+14:01:36.0 (115426363)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:12
+14:01:36.0 (115453112)|HEAP_ALLOCATE|[290]|Bytes:12
+14:01:36.0 (115460255)|STATEMENT_EXECUTE|[290]
+14:01:36.0 (115461901)|STATEMENT_EXECUTE|[291]
+14:01:36.0 (115478317)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:12
+14:01:36.0 (115483890)|HEAP_ALLOCATE|[291]|Bytes:12
+14:01:36.0 (115500022)|VARIABLE_ASSIGNMENT|[291]|trList|[{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIuZAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIvIAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]|0x2366a6dc
+14:01:36.0 (115503979)|STATEMENT_EXECUTE|[293]
+14:01:36.0 (115520128)|HEAP_ALLOCATE|[293]|Bytes:104
+14:01:36.0 (115525437)|HEAP_ALLOCATE|[293]|Bytes:11
+14:01:36.0 (115531638)|HEAP_ALLOCATE|[293]|Bytes:12
+14:01:36.0 (115568802)|CONSTRUCTOR_ENTRY|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (115573413)|VARIABLE_SCOPE_BEGIN|[324]|this|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (115587897)|VARIABLE_ASSIGNMENT|[324]|this|{}|0x5d0b7e17
+14:01:36.0 (115590170)|VARIABLE_SCOPE_BEGIN|[324]|t|Doc_Line__c|true|false
+14:01:36.0 (115606658)|VARIABLE_ASSIGNMENT|[324]|t|{"Id":"a5Hn00000003fsgEAA","Name":"DID-14699","Name__c":"Login To Salesforce. (3 more) ...","Status__c":"UA Testing In Progre (2 more) ...","Line_Order__c":1.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIuZAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIvIAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x2a81017
+14:01:36.0 (115612484)|VARIABLE_SCOPE_BEGIN|[324]|ct|Integer|false|false
+14:01:36.0 (115616170)|VARIABLE_ASSIGNMENT|[324]|ct|2
+14:01:36.0 (115619102)|STATEMENT_EXECUTE|[321]
+14:01:36.0 (115620464)|STATEMENT_EXECUTE|[322]
+14:01:36.0 (115625406)|STATEMENT_EXECUTE|[323]
+14:01:36.0 (115642603)|STATEMENT_EXECUTE|[324]
+14:01:36.0 (115643743)|STATEMENT_EXECUTE|[325]
+14:01:36.0 (115672035)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{}|0x5d0b7e17
+14:01:36.0 (115687049)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{"Id":"a5Hn00000003fsgEAA","Name":"DID-14699","Name__c":"Login To Salesforce. (3 more) ...","Status__c":"UA Testing In Progre (2 more) ...","Line_Order__c":1.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIuZAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIvIAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x2a81017
+14:01:36.0 (115705721)|VARIABLE_ASSIGNMENT|[322]|this.tc|{"Id":"a5Hn00000003fsgEAA","Name":"DID-14699","Name__c":"Login To Salesforce. (3 more) ...","Status__c":"UA Testing In Progre (2 more) ...","Line_Order__c":1.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIuZAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fsgEAA","Id":"a30n0000000hIvIAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x5d0b7e17
+14:01:36.0 (115714132)|STATEMENT_EXECUTE|[326]
+14:01:36.0 (115745142)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"tc":"0x2a81017"}|0x5d0b7e17
+14:01:36.0 (115749100)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|2
+14:01:36.0 (115752615)|HEAP_ALLOCATE|[323]|Bytes:4
+14:01:36.0 (115756916)|VARIABLE_ASSIGNMENT|[323]|this.TRCt|2|0x5d0b7e17
+14:01:36.0 (115766402)|CONSTRUCTOR_EXIT|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (115770646)|VARIABLE_SCOPE_BEGIN|[293]|tcRec|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (115780930)|VARIABLE_ASSIGNMENT|[293]|tcRec|{"tc":"0x2a81017","TRCt":2}|0x5d0b7e17
+14:01:36.0 (115783290)|STATEMENT_EXECUTE|[294]
+14:01:36.0 (115859419)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (115885887)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (115897975)|HEAP_ALLOCATE|[288]|Bytes:5
+14:01:36.0 (115921339)|HEAP_ALLOCATE|[288]|Bytes:36
+14:01:36.0 (115927920)|VARIABLE_SCOPE_BEGIN|[288]|tc|Doc_Line__c|true|false
+14:01:36.0 (115945757)|VARIABLE_ASSIGNMENT|[288]|tc|{"Id":"a5Hn00000003fshEAA","Name":"DID-14700","Name__c":"test4","Status__c":"Not Started","Line_Order__c":2.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIwpAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIxJAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x37b82ff9
+14:01:36.0 (115950265)|STATEMENT_EXECUTE|[288]
+14:01:36.0 (115951437)|STATEMENT_EXECUTE|[289]
+14:01:36.0 (115958466)|HEAP_ALLOCATE|[289]|Bytes:4
+14:01:36.0 (115967335)|VARIABLE_SCOPE_BEGIN|[289]|trList|List<Test_Results__c>|true|false
+14:01:36.0 (115971296)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (115976255)|VARIABLE_ASSIGNMENT|[289]|trList|[]|0x7a97886
+14:01:36.0 (115995558)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:12
+14:01:36.0 (116003437)|HEAP_ALLOCATE|[290]|Bytes:12
+14:01:36.0 (116008334)|STATEMENT_EXECUTE|[290]
+14:01:36.0 (116009494)|STATEMENT_EXECUTE|[291]
+14:01:36.0 (116019431)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:12
+14:01:36.0 (116023982)|HEAP_ALLOCATE|[291]|Bytes:12
+14:01:36.0 (116037212)|VARIABLE_ASSIGNMENT|[291]|trList|[{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIwpAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIxJAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]|0x5d697fb4
+14:01:36.0 (116041189)|STATEMENT_EXECUTE|[293]
+14:01:36.0 (116047287)|HEAP_ALLOCATE|[293]|Bytes:12
+14:01:36.0 (116062126)|CONSTRUCTOR_ENTRY|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (116065507)|VARIABLE_SCOPE_BEGIN|[324]|this|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (116075991)|VARIABLE_ASSIGNMENT|[324]|this|{}|0x5b9459c8
+14:01:36.0 (116077822)|VARIABLE_SCOPE_BEGIN|[324]|t|Doc_Line__c|true|false
+14:01:36.0 (116090975)|VARIABLE_ASSIGNMENT|[324]|t|{"Id":"a5Hn00000003fshEAA","Name":"DID-14700","Name__c":"test4","Status__c":"Not Started","Line_Order__c":2.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIwpAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIxJAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x37b82ff9
+14:01:36.0 (116094884)|VARIABLE_SCOPE_BEGIN|[324]|ct|Integer|false|false
+14:01:36.0 (116097545)|VARIABLE_ASSIGNMENT|[324]|ct|2
+14:01:36.0 (116099551)|STATEMENT_EXECUTE|[321]
+14:01:36.0 (116100969)|STATEMENT_EXECUTE|[322]
+14:01:36.0 (116104452)|STATEMENT_EXECUTE|[323]
+14:01:36.0 (116114171)|STATEMENT_EXECUTE|[324]
+14:01:36.0 (116115373)|STATEMENT_EXECUTE|[325]
+14:01:36.0 (116127020)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{}|0x5b9459c8
+14:01:36.0 (116140317)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{"Id":"a5Hn00000003fshEAA","Name":"DID-14700","Name__c":"test4","Status__c":"Not Started","Line_Order__c":2.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIwpAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIxJAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x37b82ff9
+14:01:36.0 (116155619)|VARIABLE_ASSIGNMENT|[322]|this.tc|{"Id":"a5Hn00000003fshEAA","Name":"DID-14700","Name__c":"test4","Status__c":"Not Started","Line_Order__c":2.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIwpAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fshEAA","Id":"a30n0000000hIxJAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x5b9459c8
+14:01:36.0 (116161664)|STATEMENT_EXECUTE|[326]
+14:01:36.0 (116173712)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"tc":"0x37b82ff9"}|0x5b9459c8
+14:01:36.0 (116181147)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|2
+14:01:36.0 (116183848)|HEAP_ALLOCATE|[323]|Bytes:4
+14:01:36.0 (116188070)|VARIABLE_ASSIGNMENT|[323]|this.TRCt|2|0x5b9459c8
+14:01:36.0 (116196349)|CONSTRUCTOR_EXIT|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (116199451)|VARIABLE_SCOPE_BEGIN|[293]|tcRec|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (116209610)|VARIABLE_ASSIGNMENT|[293]|tcRec|{"tc":"0x37b82ff9","TRCt":2}|0x5b9459c8
+14:01:36.0 (116211856)|STATEMENT_EXECUTE|[294]
+14:01:36.0 (116275265)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (116289803)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (116300096)|HEAP_ALLOCATE|[288]|Bytes:5
+14:01:36.0 (116321051)|HEAP_ALLOCATE|[288]|Bytes:32
+14:01:36.0 (116326939)|VARIABLE_SCOPE_BEGIN|[288]|tc|Doc_Line__c|true|false
+14:01:36.0 (116337918)|VARIABLE_ASSIGNMENT|[288]|tc|{"Id":"a5Hn00000003fsiEAA","Name":"DID-14701","Name__c":"test5","Status__c":"Not Started","Line_Order__c":3.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD"}|0x6d490c2d
+14:01:36.0 (116341175)|STATEMENT_EXECUTE|[288]
+14:01:36.0 (116342489)|STATEMENT_EXECUTE|[289]
+14:01:36.0 (116348719)|HEAP_ALLOCATE|[289]|Bytes:4
+14:01:36.0 (116356504)|VARIABLE_SCOPE_BEGIN|[289]|trList|List<Test_Results__c>|true|false
+14:01:36.0 (116360343)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (116364711)|VARIABLE_ASSIGNMENT|[289]|trList|[]|0x31f0a86f
+14:01:36.0 (116378371)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (116386793)|HEAP_ALLOCATE|[290]|Bytes:4
+14:01:36.0 (116390588)|STATEMENT_EXECUTE|[290]
+14:01:36.0 (116391828)|STATEMENT_EXECUTE|[291]
+14:01:36.0 (116400890)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (116405124)|HEAP_ALLOCATE|[291]|Bytes:4
+14:01:36.0 (116411057)|VARIABLE_ASSIGNMENT|[291]|trList|[]|0x7d519b9f
+14:01:36.0 (116412958)|STATEMENT_EXECUTE|[293]
+14:01:36.0 (116418191)|HEAP_ALLOCATE|[293]|Bytes:12
+14:01:36.0 (116432231)|CONSTRUCTOR_ENTRY|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (116435292)|VARIABLE_SCOPE_BEGIN|[324]|this|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (116445387)|VARIABLE_ASSIGNMENT|[324]|this|{}|0x6b53df5e
+14:01:36.0 (116447304)|VARIABLE_SCOPE_BEGIN|[324]|t|Doc_Line__c|true|false
+14:01:36.0 (116455797)|VARIABLE_ASSIGNMENT|[324]|t|{"Id":"a5Hn00000003fsiEAA","Name":"DID-14701","Name__c":"test5","Status__c":"Not Started","Line_Order__c":3.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD"}|0x6d490c2d
+14:01:36.0 (116458817)|VARIABLE_SCOPE_BEGIN|[324]|ct|Integer|false|false
+14:01:36.0 (116461300)|VARIABLE_ASSIGNMENT|[324]|ct|0
+14:01:36.0 (116463565)|STATEMENT_EXECUTE|[321]
+14:01:36.0 (116464605)|STATEMENT_EXECUTE|[322]
+14:01:36.0 (116467880)|STATEMENT_EXECUTE|[323]
+14:01:36.0 (116477006)|STATEMENT_EXECUTE|[324]
+14:01:36.0 (116478238)|STATEMENT_EXECUTE|[325]
+14:01:36.0 (116489554)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{}|0x6b53df5e
+14:01:36.0 (116497504)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{"Id":"a5Hn00000003fsiEAA","Name":"DID-14701","Name__c":"test5","Status__c":"Not Started","Line_Order__c":3.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD"}|0x6d490c2d
+14:01:36.0 (116507063)|VARIABLE_ASSIGNMENT|[322]|this.tc|{"Id":"a5Hn00000003fsiEAA","Name":"DID-14701","Name__c":"test5","Status__c":"Not Started","Line_Order__c":3.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD"}|0x6b53df5e
+14:01:36.0 (116511858)|STATEMENT_EXECUTE|[326]
+14:01:36.0 (116523693)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"tc":"0x6d490c2d"}|0x6b53df5e
+14:01:36.0 (116527045)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|0
+14:01:36.0 (116529127)|HEAP_ALLOCATE|[323]|Bytes:4
+14:01:36.0 (116532829)|VARIABLE_ASSIGNMENT|[323]|this.TRCt|0|0x6b53df5e
+14:01:36.0 (116540080)|CONSTRUCTOR_EXIT|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (116542933)|VARIABLE_SCOPE_BEGIN|[293]|tcRec|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (116551846)|VARIABLE_ASSIGNMENT|[293]|tcRec|{"tc":"0x6d490c2d","TRCt":0}|0x6b53df5e
+14:01:36.0 (116553708)|STATEMENT_EXECUTE|[294]
+14:01:36.0 (116614047)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (116627879)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (116638006)|HEAP_ALLOCATE|[288]|Bytes:5
+14:01:36.0 (116658437)|HEAP_ALLOCATE|[288]|Bytes:36
+14:01:36.0 (116664081)|VARIABLE_SCOPE_BEGIN|[288]|tc|Doc_Line__c|true|false
+14:01:36.0 (116680285)|VARIABLE_ASSIGNMENT|[288]|tc|{"Id":"a5Hn00000003fsqEAA","Name":"DID-14702","Name__c":"new draft","Status__c":"Draft","Line_Order__c":3.50,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsqEAA","Id":"a30n0000000hIx9AAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x28e3f8b6
+14:01:36.0 (116684428)|STATEMENT_EXECUTE|[288]
+14:01:36.0 (116685942)|STATEMENT_EXECUTE|[289]
+14:01:36.0 (116692185)|HEAP_ALLOCATE|[289]|Bytes:4
+14:01:36.0 (116700135)|VARIABLE_SCOPE_BEGIN|[289]|trList|List<Test_Results__c>|true|false
+14:01:36.0 (116703841)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (116708154)|VARIABLE_ASSIGNMENT|[289]|trList|[]|0x127081e5
+14:01:36.0 (116725390)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+14:01:36.0 (116731938)|HEAP_ALLOCATE|[290]|Bytes:8
+14:01:36.0 (116735459)|STATEMENT_EXECUTE|[290]
+14:01:36.0 (116736681)|STATEMENT_EXECUTE|[291]
+14:01:36.0 (116745628)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+14:01:36.0 (116749739)|HEAP_ALLOCATE|[291]|Bytes:8
+14:01:36.0 (116760258)|VARIABLE_ASSIGNMENT|[291]|trList|[{"Test_Case__c":"a5Hn00000003fsqEAA","Id":"a30n0000000hIx9AAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]|0x26f7f014
+14:01:36.0 (116762898)|STATEMENT_EXECUTE|[293]
+14:01:36.0 (116769277)|HEAP_ALLOCATE|[293]|Bytes:12
+14:01:36.0 (116782671)|CONSTRUCTOR_ENTRY|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (116785925)|VARIABLE_SCOPE_BEGIN|[324]|this|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (116796049)|VARIABLE_ASSIGNMENT|[324]|this|{}|0x578b0a36
+14:01:36.0 (116797808)|VARIABLE_SCOPE_BEGIN|[324]|t|Doc_Line__c|true|false
+14:01:36.0 (116808727)|VARIABLE_ASSIGNMENT|[324]|t|{"Id":"a5Hn00000003fsqEAA","Name":"DID-14702","Name__c":"new draft","Status__c":"Draft","Line_Order__c":3.50,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsqEAA","Id":"a30n0000000hIx9AAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x28e3f8b6
+14:01:36.0 (116812087)|VARIABLE_SCOPE_BEGIN|[324]|ct|Integer|false|false
+14:01:36.0 (116814678)|VARIABLE_ASSIGNMENT|[324]|ct|1
+14:01:36.0 (116817012)|STATEMENT_EXECUTE|[321]
+14:01:36.0 (116818090)|STATEMENT_EXECUTE|[322]
+14:01:36.0 (116821478)|STATEMENT_EXECUTE|[323]
+14:01:36.0 (116830443)|STATEMENT_EXECUTE|[324]
+14:01:36.0 (116831946)|STATEMENT_EXECUTE|[325]
+14:01:36.0 (116843283)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{}|0x578b0a36
+14:01:36.0 (116853910)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{"Id":"a5Hn00000003fsqEAA","Name":"DID-14702","Name__c":"new draft","Status__c":"Draft","Line_Order__c":3.50,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsqEAA","Id":"a30n0000000hIx9AAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x28e3f8b6
+14:01:36.0 (116866208)|VARIABLE_ASSIGNMENT|[322]|this.tc|{"Id":"a5Hn00000003fsqEAA","Name":"DID-14702","Name__c":"new draft","Status__c":"Draft","Line_Order__c":3.50,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fsqEAA","Id":"a30n0000000hIx9AAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x578b0a36
+14:01:36.0 (116871492)|STATEMENT_EXECUTE|[326]
+14:01:36.0 (116889339)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"tc":"0x28e3f8b6"}|0x578b0a36
+14:01:36.0 (116893590)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|1
+14:01:36.0 (116895765)|HEAP_ALLOCATE|[323]|Bytes:4
+14:01:36.0 (116899472)|VARIABLE_ASSIGNMENT|[323]|this.TRCt|1|0x578b0a36
+14:01:36.0 (116906797)|CONSTRUCTOR_EXIT|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (116914820)|VARIABLE_SCOPE_BEGIN|[293]|tcRec|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (116924941)|VARIABLE_ASSIGNMENT|[293]|tcRec|{"tc":"0x28e3f8b6","TRCt":1}|0x578b0a36
+14:01:36.0 (116927119)|STATEMENT_EXECUTE|[294]
+14:01:36.0 (116988315)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (117001084)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (117012245)|HEAP_ALLOCATE|[288]|Bytes:5
+14:01:36.0 (117032806)|HEAP_ALLOCATE|[288]|Bytes:36
+14:01:36.0 (117038626)|VARIABLE_SCOPE_BEGIN|[288]|tc|Doc_Line__c|true|false
+14:01:36.0 (117057407)|VARIABLE_ASSIGNMENT|[288]|tc|{"Id":"a5Hn00000003fuDEAQ","Name":"DID-14703","Name__c":"test new","Status__c":"Ready For UA Testing","Line_Order__c":4.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIyWAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIygAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x6a896d15
+14:01:36.0 (117061757)|STATEMENT_EXECUTE|[288]
+14:01:36.0 (117063120)|STATEMENT_EXECUTE|[289]
+14:01:36.0 (117069691)|HEAP_ALLOCATE|[289]|Bytes:4
+14:01:36.0 (117077417)|VARIABLE_SCOPE_BEGIN|[289]|trList|List<Test_Results__c>|true|false
+14:01:36.0 (117081087)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (117085126)|VARIABLE_ASSIGNMENT|[289]|trList|[]|0x225786b6
+14:01:36.0 (117101920)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:12
+14:01:36.0 (117108870)|HEAP_ALLOCATE|[290]|Bytes:12
+14:01:36.0 (117112649)|STATEMENT_EXECUTE|[290]
+14:01:36.0 (117113939)|STATEMENT_EXECUTE|[291]
+14:01:36.0 (117122308)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:12
+14:01:36.0 (117126605)|HEAP_ALLOCATE|[291]|Bytes:12
+14:01:36.0 (117139933)|VARIABLE_ASSIGNMENT|[291]|trList|[{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIyWAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIygAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]|0x343e54b0
+14:01:36.0 (117143513)|STATEMENT_EXECUTE|[293]
+14:01:36.0 (117149341)|HEAP_ALLOCATE|[293]|Bytes:12
+14:01:36.0 (117162578)|CONSTRUCTOR_ENTRY|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (117165748)|VARIABLE_SCOPE_BEGIN|[324]|this|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (117176163)|VARIABLE_ASSIGNMENT|[324]|this|{}|0x2d507573
+14:01:36.0 (117177857)|VARIABLE_SCOPE_BEGIN|[324]|t|Doc_Line__c|true|false
+14:01:36.0 (117190957)|VARIABLE_ASSIGNMENT|[324]|t|{"Id":"a5Hn00000003fuDEAQ","Name":"DID-14703","Name__c":"test new","Status__c":"Ready For UA Testing","Line_Order__c":4.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIyWAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIygAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x6a896d15
+14:01:36.0 (117194995)|VARIABLE_SCOPE_BEGIN|[324]|ct|Integer|false|false
+14:01:36.0 (117197688)|VARIABLE_ASSIGNMENT|[324]|ct|2
+14:01:36.0 (117199870)|STATEMENT_EXECUTE|[321]
+14:01:36.0 (117200933)|STATEMENT_EXECUTE|[322]
+14:01:36.0 (117204020)|STATEMENT_EXECUTE|[323]
+14:01:36.0 (117213455)|STATEMENT_EXECUTE|[324]
+14:01:36.0 (117214999)|STATEMENT_EXECUTE|[325]
+14:01:36.0 (117226650)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{}|0x2d507573
+14:01:36.0 (117239203)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{"Id":"a5Hn00000003fuDEAQ","Name":"DID-14703","Name__c":"test new","Status__c":"Ready For UA Testing","Line_Order__c":4.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIyWAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIygAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x6a896d15
+14:01:36.0 (117253819)|VARIABLE_ASSIGNMENT|[322]|this.tc|{"Id":"a5Hn00000003fuDEAQ","Name":"DID-14703","Name__c":"test new","Status__c":"Ready For UA Testing","Line_Order__c":4.00,"RecordTypeId":"012a0000001FtdmAAC","CurrencyIsoCode":"USD","Test_Results__r":[{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIyWAAU","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"},{"Test_Case__c":"a5Hn00000003fuDEAQ","Id":"a30n0000000hIygAAE","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}]}|0x2d507573
+14:01:36.0 (117260380)|STATEMENT_EXECUTE|[326]
+14:01:36.0 (117272679)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"tc":"0x6a896d15"}|0x2d507573
+14:01:36.0 (117276228)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|2
+14:01:36.0 (117278586)|HEAP_ALLOCATE|[323]|Bytes:4
+14:01:36.0 (117282174)|VARIABLE_ASSIGNMENT|[323]|this.TRCt|2|0x2d507573
+14:01:36.0 (117289511)|CONSTRUCTOR_EXIT|[293]|01pn0000000BU18|<init>(Doc_Line__c,Integer)
+14:01:36.0 (117292785)|VARIABLE_SCOPE_BEGIN|[293]|tcRec|ExpressTestNewBatteryController.testCaseCls|true|false
+14:01:36.0 (117301220)|VARIABLE_ASSIGNMENT|[293]|tcRec|{"tc":"0x6a896d15","TRCt":2}|0x2d507573
+14:01:36.0 (117303150)|STATEMENT_EXECUTE|[294]
+14:01:36.0 (117365702)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (117379362)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (117389176)|HEAP_ALLOCATE|[288]|Bytes:5
+14:01:36.0 (117398064)|VARIABLE_ASSIGNMENT|[288]|tc|null|
+14:01:36.0 (117401690)|STATEMENT_EXECUTE|[297]
+14:01:36.0 (117407678)|HEAP_ALLOCATE|[297]|Bytes:4
+14:01:36.0 (117425862)|VARIABLE_SCOPE_BEGIN|[297]|trList|List<Test_Results__c>|true|false
+14:01:36.0 (117430115)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (117434482)|VARIABLE_ASSIGNMENT|[297]|trList|[]|0x22851055
+14:01:36.0 (117436339)|STATEMENT_EXECUTE|[298]
+14:01:36.0 (117441257)|HEAP_ALLOCATE|[298]|Bytes:116
+14:01:36.0 (117448838)|HEAP_ALLOCATE|[298]|Bytes:4
+14:01:36.0 (117522489)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (117913515)|SOQL_EXECUTE_BEGIN|[298]|Aggregations:0|SELECT Id, Linked_Contact__c, Test_Case__c FROM Test_Results__c WHERE Test_Case__r.Parent_Express_Test__c = :tmpVar1
+14:01:36.0 (122110721)|SOQL_EXECUTE_END|[298]|Rows:7
+14:01:36.0 (122141443)|HEAP_ALLOCATE|[298]|Bytes:32
+14:01:36.0 (122209187)|HEAP_ALLOCATE|[298]|Bytes:1134
+14:01:36.0 (122289820)|HEAP_ALLOCATE|[298]|Bytes:32
+14:01:36.0 (122330727)|VARIABLE_ASSIGNMENT|[298]|trList|"List of size 7 too large to display"|0x957474b
+14:01:36.0 (122335825)|STATEMENT_EXECUTE|[299]
+14:01:36.0 (122356137)|HEAP_ALLOCATE|[299]|Bytes:4
+14:01:36.0 (122378904)|VARIABLE_SCOPE_BEGIN|[299]|trMap|Map<String,List<String>>|true|false
+14:01:36.0 (122394480)|VARIABLE_ASSIGNMENT|[299]|trMap|{}|0x264b7641
+14:01:36.0 (122448672)|STATEMENT_EXECUTE|[300]
+14:01:36.0 (122575571)|HEAP_ALLOCATE|[301]|Bytes:5
+14:01:36.0 (122611416)|HEAP_ALLOCATE|[301]|Bytes:24
+14:01:36.0 (122619951)|VARIABLE_SCOPE_BEGIN|[301]|tr|Test_Results__c|true|false
+14:01:36.0 (122638275)|VARIABLE_ASSIGNMENT|[301]|tr|{"Id":"a30n0000000hIuZAAU","Linked_Contact__c":"a4fn00000004aDzAAI","Test_Case__c":"a5Hn00000003fsgEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x27aab27e
+14:01:36.0 (122642039)|STATEMENT_EXECUTE|[301]
+14:01:36.0 (122738243)|STATEMENT_EXECUTE|[305]
+14:01:36.0 (122740706)|STATEMENT_EXECUTE|[306]
+14:01:36.0 (122780917)|HEAP_ALLOCATE|[306]|Bytes:4
+14:01:36.0 (122839322)|HEAP_ALLOCATE|[306]|Bytes:18
+14:01:36.0 (122884182)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+14:01:36.0 (122888839)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (122902810)|HEAP_ALLOCATE|[301]|Bytes:5
+14:01:36.0 (122920956)|HEAP_ALLOCATE|[301]|Bytes:24
+14:01:36.0 (122927147)|VARIABLE_SCOPE_BEGIN|[301]|tr|Test_Results__c|true|false
+14:01:36.0 (122940586)|VARIABLE_ASSIGNMENT|[301]|tr|{"Id":"a30n0000000hIvIAAU","Linked_Contact__c":"a4fn00000004aKHAAY","Test_Case__c":"a5Hn00000003fsgEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x690b6ed6
+14:01:36.0 (122943945)|STATEMENT_EXECUTE|[301]
+14:01:36.0 (122963488)|STATEMENT_EXECUTE|[302]
+14:01:36.0 (122964960)|STATEMENT_EXECUTE|[303]
+14:01:36.0 (123027351)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (123040494)|HEAP_ALLOCATE|[301]|Bytes:5
+14:01:36.0 (123062194)|HEAP_ALLOCATE|[301]|Bytes:24
+14:01:36.0 (123068496)|VARIABLE_SCOPE_BEGIN|[301]|tr|Test_Results__c|true|false
+14:01:36.0 (123079876)|VARIABLE_ASSIGNMENT|[301]|tr|{"Id":"a30n0000000hIwpAAE","Linked_Contact__c":"a4fn00000004aKHAAY","Test_Case__c":"a5Hn00000003fshEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x1db66499
+14:01:36.0 (123083444)|STATEMENT_EXECUTE|[301]
+14:01:36.0 (123104519)|STATEMENT_EXECUTE|[305]
+14:01:36.0 (123105986)|STATEMENT_EXECUTE|[306]
+14:01:36.0 (123114956)|HEAP_ALLOCATE|[306]|Bytes:4
+14:01:36.0 (123126066)|HEAP_ALLOCATE|[306]|Bytes:18
+14:01:36.0 (123144910)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+14:01:36.0 (123147519)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (123160763)|HEAP_ALLOCATE|[301]|Bytes:5
+14:01:36.0 (123176934)|HEAP_ALLOCATE|[301]|Bytes:24
+14:01:36.0 (123182188)|VARIABLE_SCOPE_BEGIN|[301]|tr|Test_Results__c|true|false
+14:01:36.0 (123192659)|VARIABLE_ASSIGNMENT|[301]|tr|{"Id":"a30n0000000hIxJAAU","Linked_Contact__c":"a4fn00000004aE4AAI","Test_Case__c":"a5Hn00000003fshEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x4215357d
+14:01:36.0 (123195526)|STATEMENT_EXECUTE|[301]
+14:01:36.0 (123211209)|STATEMENT_EXECUTE|[302]
+14:01:36.0 (123212562)|STATEMENT_EXECUTE|[303]
+14:01:36.0 (123246029)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (123255995)|HEAP_ALLOCATE|[301]|Bytes:5
+14:01:36.0 (123271018)|HEAP_ALLOCATE|[301]|Bytes:24
+14:01:36.0 (123275642)|VARIABLE_SCOPE_BEGIN|[301]|tr|Test_Results__c|true|false
+14:01:36.0 (123284946)|VARIABLE_ASSIGNMENT|[301]|tr|{"Id":"a30n0000000hIx9AAE","Linked_Contact__c":"a4fn00000004aE4AAI","Test_Case__c":"a5Hn00000003fsqEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x30de4603
+14:01:36.0 (123288006)|STATEMENT_EXECUTE|[301]
+14:01:36.0 (123302967)|STATEMENT_EXECUTE|[305]
+14:01:36.0 (123304288)|STATEMENT_EXECUTE|[306]
+14:01:36.0 (123311729)|HEAP_ALLOCATE|[306]|Bytes:4
+14:01:36.0 (123321065)|HEAP_ALLOCATE|[306]|Bytes:18
+14:01:36.0 (123336695)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+14:01:36.0 (123339040)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (123348468)|HEAP_ALLOCATE|[301]|Bytes:5
+14:01:36.0 (123363357)|HEAP_ALLOCATE|[301]|Bytes:24
+14:01:36.0 (123368099)|VARIABLE_SCOPE_BEGIN|[301]|tr|Test_Results__c|true|false
+14:01:36.0 (123377849)|VARIABLE_ASSIGNMENT|[301]|tr|{"Id":"a30n0000000hIyWAAU","Linked_Contact__c":"a4fn00000004aE4AAI","Test_Case__c":"a5Hn00000003fuDEAQ","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x211f310
+14:01:36.0 (123380781)|STATEMENT_EXECUTE|[301]
+14:01:36.0 (123394835)|STATEMENT_EXECUTE|[305]
+14:01:36.0 (123396120)|STATEMENT_EXECUTE|[306]
+14:01:36.0 (123403646)|HEAP_ALLOCATE|[306]|Bytes:4
+14:01:36.0 (123412331)|HEAP_ALLOCATE|[306]|Bytes:18
+14:01:36.0 (123426985)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+14:01:36.0 (123429264)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (123438364)|HEAP_ALLOCATE|[301]|Bytes:5
+14:01:36.0 (123452785)|HEAP_ALLOCATE|[301]|Bytes:24
+14:01:36.0 (123457548)|VARIABLE_SCOPE_BEGIN|[301]|tr|Test_Results__c|true|false
+14:01:36.0 (123466895)|VARIABLE_ASSIGNMENT|[301]|tr|{"Id":"a30n0000000hIygAAE","Linked_Contact__c":"a4fn00000004aKHAAY","Test_Case__c":"a5Hn00000003fuDEAQ","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x2c2dcd67
+14:01:36.0 (123469286)|STATEMENT_EXECUTE|[301]
+14:01:36.0 (123483833)|STATEMENT_EXECUTE|[302]
+14:01:36.0 (123485243)|STATEMENT_EXECUTE|[303]
+14:01:36.0 (123512604)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (123522210)|HEAP_ALLOCATE|[301]|Bytes:5
+14:01:36.0 (123532213)|VARIABLE_ASSIGNMENT|[301]|tr|null|
+14:01:36.0 (123558664)|HEAP_ALLOCATE|[309]|Bytes:5
+14:01:36.0 (123565909)|HEAP_ALLOCATE|[309]|Bytes:24
+14:01:36.0 (123570116)|VARIABLE_SCOPE_BEGIN|[309]|tr|Test_Results__c|true|false
+14:01:36.0 (123579156)|VARIABLE_ASSIGNMENT|[309]|tr|{"Id":"a30n0000000hIuZAAU","Linked_Contact__c":"a4fn00000004aDzAAI","Test_Case__c":"a5Hn00000003fsgEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x27aab27e
+14:01:36.0 (123582324)|STATEMENT_EXECUTE|[309]
+14:01:36.0 (123612445)|STATEMENT_EXECUTE|[310]
+14:01:36.0 (123614280)|STATEMENT_EXECUTE|[311]
+14:01:36.0 (123622351)|HEAP_ALLOCATE|[311]|Bytes:4
+14:01:36.0 (123632041)|VARIABLE_SCOPE_BEGIN|[311]|lcMap|Map<String,String>|true|false
+14:01:36.0 (123640924)|VARIABLE_ASSIGNMENT|[311]|lcMap|{}|0x14b7c66a
+14:01:36.0 (123688491)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (123696037)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (123701105)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (123706787)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aDzAAI"
+14:01:36.0 (123708914)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (123710171)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (123739308)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (123750132)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (123755438)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (123758929)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (123763303)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aKHAAY"
+14:01:36.0 (123764994)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (123766057)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (123772972)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (123779691)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (123785640)|VARIABLE_ASSIGNMENT|[312]|lc|null
+14:01:36.0 (123787848)|STATEMENT_EXECUTE|[315]
+14:01:36.0 (123828554)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (123841293)|HEAP_ALLOCATE|[309]|Bytes:5
+14:01:36.0 (123852724)|HEAP_ALLOCATE|[309]|Bytes:24
+14:01:36.0 (123859628)|VARIABLE_SCOPE_BEGIN|[309]|tr|Test_Results__c|true|false
+14:01:36.0 (123875567)|VARIABLE_ASSIGNMENT|[309]|tr|{"Id":"a30n0000000hIvIAAU","Linked_Contact__c":"a4fn00000004aKHAAY","Test_Case__c":"a5Hn00000003fsgEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x690b6ed6
+14:01:36.0 (123880150)|STATEMENT_EXECUTE|[309]
+14:01:36.0 (123906651)|STATEMENT_EXECUTE|[310]
+14:01:36.0 (123909310)|STATEMENT_EXECUTE|[311]
+14:01:36.0 (123918900)|HEAP_ALLOCATE|[311]|Bytes:4
+14:01:36.0 (123926133)|VARIABLE_SCOPE_BEGIN|[311]|lcMap|Map<String,String>|true|false
+14:01:36.0 (123934635)|VARIABLE_ASSIGNMENT|[311]|lcMap|{}|0x2769b6a8
+14:01:36.0 (123965393)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (123971667)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (123975820)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (123980366)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aDzAAI"
+14:01:36.0 (123982207)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (123983618)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (123992010)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (123999755)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124004338)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124007954)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124011286)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aKHAAY"
+14:01:36.0 (124012667)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124013665)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124019106)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124025353)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124030906)|VARIABLE_ASSIGNMENT|[312]|lc|null
+14:01:36.0 (124032968)|STATEMENT_EXECUTE|[315]
+14:01:36.0 (124061095)|HEAP_ALLOCATE|[309]|Bytes:5
+14:01:36.0 (124067877)|HEAP_ALLOCATE|[309]|Bytes:24
+14:01:36.0 (124071958)|VARIABLE_SCOPE_BEGIN|[309]|tr|Test_Results__c|true|false
+14:01:36.0 (124081659)|VARIABLE_ASSIGNMENT|[309]|tr|{"Id":"a30n0000000hIwpAAE","Linked_Contact__c":"a4fn00000004aKHAAY","Test_Case__c":"a5Hn00000003fshEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x1db66499
+14:01:36.0 (124085717)|STATEMENT_EXECUTE|[309]
+14:01:36.0 (124106330)|STATEMENT_EXECUTE|[310]
+14:01:36.0 (124107992)|STATEMENT_EXECUTE|[311]
+14:01:36.0 (124114084)|HEAP_ALLOCATE|[311]|Bytes:4
+14:01:36.0 (124118509)|VARIABLE_SCOPE_BEGIN|[311]|lcMap|Map<String,String>|true|false
+14:01:36.0 (124128111)|VARIABLE_ASSIGNMENT|[311]|lcMap|{}|0x5aed257a
+14:01:36.0 (124155245)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124161290)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124164979)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124169311)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aKHAAY"
+14:01:36.0 (124171166)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124172217)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124179853)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124187074)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124191572)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124194468)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124197566)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aE4AAI"
+14:01:36.0 (124199134)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124200108)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124205400)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124211619)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124216962)|VARIABLE_ASSIGNMENT|[312]|lc|null
+14:01:36.0 (124218696)|STATEMENT_EXECUTE|[315]
+14:01:36.0 (124232080)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124240146)|HEAP_ALLOCATE|[309]|Bytes:5
+14:01:36.0 (124246094)|HEAP_ALLOCATE|[309]|Bytes:24
+14:01:36.0 (124250025)|VARIABLE_SCOPE_BEGIN|[309]|tr|Test_Results__c|true|false
+14:01:36.0 (124259025)|VARIABLE_ASSIGNMENT|[309]|tr|{"Id":"a30n0000000hIxJAAU","Linked_Contact__c":"a4fn00000004aE4AAI","Test_Case__c":"a5Hn00000003fshEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x4215357d
+14:01:36.0 (124262033)|STATEMENT_EXECUTE|[309]
+14:01:36.0 (124275254)|STATEMENT_EXECUTE|[310]
+14:01:36.0 (124276562)|STATEMENT_EXECUTE|[311]
+14:01:36.0 (124281855)|HEAP_ALLOCATE|[311]|Bytes:4
+14:01:36.0 (124285452)|VARIABLE_SCOPE_BEGIN|[311]|lcMap|Map<String,String>|true|false
+14:01:36.0 (124291609)|VARIABLE_ASSIGNMENT|[311]|lcMap|{}|0x1a85dd0f
+14:01:36.0 (124315128)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124320799)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124324180)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124328271)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aKHAAY"
+14:01:36.0 (124330048)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124331069)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124337744)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124344511)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124348934)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124351756)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124354818)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aE4AAI"
+14:01:36.0 (124356257)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124357183)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124362065)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124368137)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124373347)|VARIABLE_ASSIGNMENT|[312]|lc|null
+14:01:36.0 (124375288)|STATEMENT_EXECUTE|[315]
+14:01:36.0 (124397289)|HEAP_ALLOCATE|[309]|Bytes:5
+14:01:36.0 (124403678)|HEAP_ALLOCATE|[309]|Bytes:24
+14:01:36.0 (124407417)|VARIABLE_SCOPE_BEGIN|[309]|tr|Test_Results__c|true|false
+14:01:36.0 (124416294)|VARIABLE_ASSIGNMENT|[309]|tr|{"Id":"a30n0000000hIx9AAE","Linked_Contact__c":"a4fn00000004aE4AAI","Test_Case__c":"a5Hn00000003fsqEAA","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x30de4603
+14:01:36.0 (124418616)|STATEMENT_EXECUTE|[309]
+14:01:36.0 (124431251)|STATEMENT_EXECUTE|[310]
+14:01:36.0 (124432514)|STATEMENT_EXECUTE|[311]
+14:01:36.0 (124437499)|HEAP_ALLOCATE|[311]|Bytes:4
+14:01:36.0 (124445098)|VARIABLE_SCOPE_BEGIN|[311]|lcMap|Map<String,String>|true|false
+14:01:36.0 (124451118)|VARIABLE_ASSIGNMENT|[311]|lcMap|{}|0x30abdca3
+14:01:36.0 (124478409)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124484023)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124487299)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124491440)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aE4AAI"
+14:01:36.0 (124493473)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124494486)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124501688)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124508659)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124513965)|VARIABLE_ASSIGNMENT|[312]|lc|null
+14:01:36.0 (124515656)|STATEMENT_EXECUTE|[315]
+14:01:36.0 (124531501)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124540040)|HEAP_ALLOCATE|[309]|Bytes:5
+14:01:36.0 (124546632)|HEAP_ALLOCATE|[309]|Bytes:24
+14:01:36.0 (124550516)|VARIABLE_SCOPE_BEGIN|[309]|tr|Test_Results__c|true|false
+14:01:36.0 (124559456)|VARIABLE_ASSIGNMENT|[309]|tr|{"Id":"a30n0000000hIyWAAU","Linked_Contact__c":"a4fn00000004aE4AAI","Test_Case__c":"a5Hn00000003fuDEAQ","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x211f310
+14:01:36.0 (124562406)|STATEMENT_EXECUTE|[309]
+14:01:36.0 (124575505)|STATEMENT_EXECUTE|[310]
+14:01:36.0 (124576793)|STATEMENT_EXECUTE|[311]
+14:01:36.0 (124581947)|HEAP_ALLOCATE|[311]|Bytes:4
+14:01:36.0 (124585841)|VARIABLE_SCOPE_BEGIN|[311]|lcMap|Map<String,String>|true|false
+14:01:36.0 (124591398)|VARIABLE_ASSIGNMENT|[311]|lcMap|{}|0x5a9df0e8
+14:01:36.0 (124614591)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124620270)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124623832)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124627591)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aE4AAI"
+14:01:36.0 (124629299)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124630328)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124637165)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124643964)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124648375)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124651006)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124654075)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aKHAAY"
+14:01:36.0 (124655477)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124656431)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124661518)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124667700)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124672827)|VARIABLE_ASSIGNMENT|[312]|lc|null
+14:01:36.0 (124674726)|STATEMENT_EXECUTE|[315]
+14:01:36.0 (124687337)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124695183)|HEAP_ALLOCATE|[309]|Bytes:5
+14:01:36.0 (124700934)|HEAP_ALLOCATE|[309]|Bytes:24
+14:01:36.0 (124704669)|VARIABLE_SCOPE_BEGIN|[309]|tr|Test_Results__c|true|false
+14:01:36.0 (124712473)|VARIABLE_ASSIGNMENT|[309]|tr|{"Id":"a30n0000000hIygAAE","Linked_Contact__c":"a4fn00000004aKHAAY","Test_Case__c":"a5Hn00000003fuDEAQ","RecordTypeId":"012a0000001FtSiAAK","CurrencyIsoCode":"USD"}|0x2c2dcd67
+14:01:36.0 (124715408)|STATEMENT_EXECUTE|[309]
+14:01:36.0 (124727956)|STATEMENT_EXECUTE|[310]
+14:01:36.0 (124729211)|STATEMENT_EXECUTE|[311]
+14:01:36.0 (124733811)|HEAP_ALLOCATE|[311]|Bytes:4
+14:01:36.0 (124737245)|VARIABLE_SCOPE_BEGIN|[311]|lcMap|Map<String,String>|true|false
+14:01:36.0 (124742352)|VARIABLE_ASSIGNMENT|[311]|lcMap|{}|0x69e8d834
+14:01:36.0 (124765108)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124770542)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124773977)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124780725)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aE4AAI"
+14:01:36.0 (124782448)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124783573)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124790660)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124797750)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124807869)|HEAP_ALLOCATE|[312]|Bytes:18
+14:01:36.0 (124811058)|VARIABLE_SCOPE_BEGIN|[312]|lc|String|false|false
+14:01:36.0 (124814216)|VARIABLE_ASSIGNMENT|[312]|lc|"a4fn00000004aKHAAY"
+14:01:36.0 (124815695)|STATEMENT_EXECUTE|[312]
+14:01:36.0 (124816687)|STATEMENT_EXECUTE|[313]
+14:01:36.0 (124822305)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+14:01:36.0 (124828985)|HEAP_ALLOCATE|[312]|Bytes:5
+14:01:36.0 (124834178)|VARIABLE_ASSIGNMENT|[312]|lc|null
+14:01:36.0 (124835786)|STATEMENT_EXECUTE|[315]
+14:01:36.0 (124857698)|HEAP_ALLOCATE|[309]|Bytes:5
+14:01:36.0 (124865101)|VARIABLE_ASSIGNMENT|[309]|tr|null|
+14:01:36.0 (124872018)|METHOD_EXIT|[115]|01pn0000000BU18|ExpressTestNewBatteryController.relatedTC()
+14:01:36.0 (124875436)|STATEMENT_EXECUTE|[116]
+14:01:36.0 (124899506)|METHOD_ENTRY|[116]|01pn0000000BU18|ExpressTestNewBatteryController.attList()
+14:01:36.0 (124917891)|VARIABLE_SCOPE_BEGIN|[336]|this|ExpressTestNewBatteryController|true|false
+14:01:36.0 (125023467)|VARIABLE_ASSIGNMENT|[336]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (125034995)|STATEMENT_EXECUTE|[336]
+14:01:36.0 (125036238)|STATEMENT_EXECUTE|[337]
+14:01:36.0 (125037243)|STATEMENT_EXECUTE|[337]
+14:01:36.0 (125041392)|STATEMENT_EXECUTE|[338]
+14:01:36.0 (125180405)|HEAP_ALLOCATE|[338]|Bytes:4
+14:01:36.0 (125314371)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (125342934)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (125350358)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x5d311da3
+14:01:36.0 (125362662)|VARIABLE_ASSIGNMENT|[15]|this.attList|[]|0x2cf6b328
+14:01:36.0 (125372948)|HEAP_ALLOCATE|[340]|Bytes:107
+14:01:36.0 (125379184)|HEAP_ALLOCATE|[340]|Bytes:4
+14:01:36.0 (125453228)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","attList":"0x5d311da3","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (126674107)|SOQL_EXECUTE_BEGIN|[340]|Aggregations:0|SELECT Id, Name, CreatedDate, LastModifiedBy.Name, CreatedBy.Name FROM Attachment 
+14:01:36.0 (135353625)|SOQL_EXECUTE_END|[340]|Rows:1
+14:01:36.0 (135383533)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+14:01:36.0 (135607710)|HEAP_ALLOCATE|[340]|Bytes:49
+14:01:36.0 (135617340)|HEAP_ALLOCATE|[340]|Bytes:8
+14:01:36.0 (135635138)|SYSTEM_METHOD_ENTRY|[7]|QueryLocatorIterator.QueryLocatorIterator()
+14:01:36.0 (135638392)|STATEMENT_EXECUTE|[7]
+14:01:36.0 (135650382)|SYSTEM_METHOD_EXIT|[7]|QueryLocatorIterator
+14:01:36.0 (135659709)|HEAP_ALLOCATE|[340]|Bytes:28
+14:01:36.0 (135739858)|HEAP_ALLOCATE|[340]|Bytes:8
+14:01:36.0 (135755143)|HEAP_ALLOCATE|[340]|Bytes:8
+14:01:36.0 (135765721)|HEAP_ALLOCATE|[340]|Bytes:8
+14:01:36.0 (135773287)|VARIABLE_SCOPE_BEGIN|[15]|this|Database.QueryLocatorIterator|true|false
+14:01:36.0 (135824827)|VARIABLE_ASSIGNMENT|[15]|this|{}|0x3302d935
+14:01:36.0 (135830290)|VARIABLE_SCOPE_BEGIN|[15]|values|List<SObject>|true|false
+14:01:36.0 (135900230)|VARIABLE_ASSIGNMENT|[15]|values|[{"Id":"00Pn0000001eCgLEAU","Name":"ExpressTest-ImportTe (11 more) ...","CreatedDate":"2017-05-24T14:55:27.000Z","LastModifiedById":"005a00000092BimAAE","CreatedById":"005a00000092BimAAE","LastModifiedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"},"CreatedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"}}]|0x67908e9d
+14:01:36.0 (135908342)|VARIABLE_SCOPE_BEGIN|[15]|ql|Database.QueryLocator|true|false
+14:01:36.0 (135919748)|VARIABLE_ASSIGNMENT|[15]|ql|{"query":"SELECT Id, Name, Cre (87 more) ..."}|0x373fb78
+14:01:36.0 (135921893)|VARIABLE_SCOPE_BEGIN|[15]|totalNumRecords|Integer|false|false
+14:01:36.0 (135926720)|VARIABLE_ASSIGNMENT|[15]|totalNumRecords|1
+14:01:36.0 (135928827)|VARIABLE_SCOPE_BEGIN|[15]|queryMoreSize|Integer|false|false
+14:01:36.0 (135931154)|VARIABLE_ASSIGNMENT|[15]|queryMoreSize|49971
+14:01:36.0 (135997540)|HEAP_ALLOCATE|[340]|Bytes:28
+14:01:36.0 (136019848)|METHOD_ENTRY|[340]||Database.QueryLocatorIterator.hasNext()
+14:01:36.0 (136109845)|METHOD_EXIT|[340]||Database.QueryLocatorIterator.hasNext()
+14:01:36.0 (136117583)|METHOD_ENTRY|[340]||Database.QueryLocatorIterator.next()
+14:01:36.0 (136250150)|METHOD_EXIT|[340]||Database.QueryLocatorIterator.next()
+14:01:36.0 (136263494)|VARIABLE_SCOPE_BEGIN|[340]|attRec|Attachment|true|false
+14:01:36.0 (136295403)|VARIABLE_ASSIGNMENT|[340]|attRec|{"Id":"00Pn0000001eCgLEAU","Name":"ExpressTest-ImportTe (11 more) ...","CreatedDate":"2017-05-24T14:55:27.000Z","LastModifiedById":"005a00000092BimAAE","CreatedById":"005a00000092BimAAE","LastModifiedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"},"CreatedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"}}|0x6cda6b74
+14:01:36.0 (136327298)|STATEMENT_EXECUTE|[340]
+14:01:36.0 (136329186)|STATEMENT_EXECUTE|[341]
+14:01:36.0 (136361953)|HEAP_ALLOCATE|[341]|Bytes:112
+14:01:36.0 (136368094)|HEAP_ALLOCATE|[341]|Bytes:11
+14:01:36.0 (136374438)|HEAP_ALLOCATE|[341]|Bytes:12
+14:01:36.0 (136413005)|HEAP_ALLOCATE|[341]|Bytes:16
+14:01:36.0 (136477888)|HEAP_ALLOCATE|[341]|Bytes:18
+14:01:36.0 (136497349)|CONSTRUCTOR_ENTRY|[341]|01pn0000000BU18|<init>(Attachment,String)
+14:01:36.0 (136502206)|VARIABLE_SCOPE_BEGIN|[355]|this|ExpressTestNewBatteryController.attachmentCls|true|false
+14:01:36.0 (136520209)|VARIABLE_ASSIGNMENT|[355]|this|{}|0x7cf278bf
+14:01:36.0 (136522437)|VARIABLE_SCOPE_BEGIN|[355]|a|Attachment|true|false
+14:01:36.0 (136541292)|VARIABLE_ASSIGNMENT|[355]|a|{"Id":"00Pn0000001eCgLEAU","Name":"ExpressTest-ImportTe (11 more) ...","CreatedDate":"2017-05-24T14:55:27.000Z","LastModifiedById":"005a00000092BimAAE","CreatedById":"005a00000092BimAAE","LastModifiedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"},"CreatedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"}}|0x6cda6b74
+14:01:36.0 (136544858)|VARIABLE_SCOPE_BEGIN|[355]|dt|String|false|false
+14:01:36.0 (136548836)|VARIABLE_ASSIGNMENT|[355]|dt|"5/24/2017 10:55 AM"
+14:01:36.0 (136552125)|STATEMENT_EXECUTE|[352]
+14:01:36.0 (136553638)|STATEMENT_EXECUTE|[353]
+14:01:36.0 (136559396)|STATEMENT_EXECUTE|[354]
+14:01:36.0 (136572556)|STATEMENT_EXECUTE|[355]
+14:01:36.0 (136574045)|STATEMENT_EXECUTE|[356]
+14:01:36.0 (136601253)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{}|0x7cf278bf
+14:01:36.0 (136617632)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|{"Id":"00Pn0000001eCgLEAU","Name":"ExpressTest-ImportTe (11 more) ...","CreatedDate":"2017-05-24T14:55:27.000Z","LastModifiedById":"005a00000092BimAAE","CreatedById":"005a00000092BimAAE","LastModifiedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"},"CreatedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"}}|0x6cda6b74
+14:01:36.0 (136635215)|VARIABLE_ASSIGNMENT|[353]|this.att|{"Id":"00Pn0000001eCgLEAU","Name":"ExpressTest-ImportTe (11 more) ...","CreatedDate":"2017-05-24T14:55:27.000Z","LastModifiedById":"005a00000092BimAAE","CreatedById":"005a00000092BimAAE","LastModifiedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"},"CreatedBy":{"Name":"Manish Garg","Id":"005a00000092BimAAE"}}|0x7cf278bf
+14:01:36.0 (136642499)|STATEMENT_EXECUTE|[357]
+14:01:36.0 (136667872)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"att":"0x6cda6b74"}|0x7cf278bf
+14:01:36.0 (136672564)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|"5/24/2017 10:55 AM"
+14:01:36.0 (136678208)|VARIABLE_ASSIGNMENT|[354]|this.createdDt|"5/24/2017 10:55 AM"|0x7cf278bf
+14:01:36.0 (136688668)|CONSTRUCTOR_EXIT|[341]|01pn0000000BU18|<init>(Attachment,String)
+14:01:36.0 (136693009)|VARIABLE_SCOPE_BEGIN|[341]|att|ExpressTestNewBatteryController.attachmentCls|true|false
+14:01:36.0 (136703597)|VARIABLE_ASSIGNMENT|[341]|att|{"att":"0x6cda6b74","createdDt":"5/24/2017 10:55 AM"}|0x7cf278bf
+14:01:36.0 (136706172)|STATEMENT_EXECUTE|[342]
+14:01:36.0 (136843086)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","attList":"0x5d311da3","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (136880104)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (136892792)|METHOD_ENTRY|[340]||Database.QueryLocatorIterator.hasNext()
+14:01:36.0 (136913562)|METHOD_EXIT|[340]||Database.QueryLocatorIterator.hasNext()
+14:01:36.0 (136926216)|VARIABLE_ASSIGNMENT|[340]|attRec|null|
+14:01:36.0 (136946865)|STATEMENT_EXECUTE|[344]
+14:01:36.0 (136955686)|HEAP_ALLOCATE|[344]|Bytes:18
+14:01:36.0 (137043177)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"attachfileSection":false,"attDownloadLabel":"https://arris--c.na1 (19 more) ...","attList":"0x5d311da3","availableUsrList":"0x6c254fec","delTCID":"","headerNm":"Test Battery : MFN T (11 more) ...","insertAct":true,"itSolId":"a11a000000FoSJGAA3","itSolList":"0x7c613058","itSolName":"Most Favored Nation  (10 more) ...","lc":"0x4d19dd7d","pagemessages":"0x45a5d9dc","parentId":"","show":true,"showSave":false,"showTesters":true,"source":"","tbList":"0x236c26cf","tcList":"0x15bb5143","testBtry":"0x737a24e9","testBtryTemp":"0x137e4a96","testCasesList":"0x379e83c5","trLinkedContMap":"0x1d652b88","wkId":"a14a000000FLaLMAA1","wrkLdName":"MFN Analysis Tool -  (22 more) ...","wrkLdReadonly":true,"wrkList":"0x17e16041"}|0x2cf6b328
+14:01:36.0 (137099609)|HEAP_ALLOCATE|[344]|Bytes:1
+14:01:36.0 (137117130)|HEAP_ALLOCATE|[344]|Bytes:19
+14:01:36.0 (137140173)|USER_DEBUG|[344]|DEBUG|*** attList size: 1
+14:01:36.0 (137152265)|METHOD_EXIT|[116]|01pn0000000BU18|ExpressTestNewBatteryController.attList()
+14:01:36.0 (139614464)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (143302935)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (143347175)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:124
+14:01:36.0 (143354303)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:16
+14:01:36.0 (143357145)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:8
+14:01:36.0 (143366274)|METHOD_ENTRY|[1]|01pn0000000BTbe|ExpressTestHomeController.ExpressTestHomeController()
+14:01:36.0 (143369334)|STATEMENT_EXECUTE|[1]
+14:01:36.0 (143372995)|STATEMENT_EXECUTE|[1]
+14:01:36.0 (143380635)|METHOD_EXIT|[1]|ExpressTestHomeController
+14:01:36.0 (143390106)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:16
+14:01:36.0 (143394770)|VARIABLE_SCOPE_BEGIN|[6]|this|ExpressTestHomeController|true|false
+14:01:36.0 (143421060)|VARIABLE_ASSIGNMENT|[6]|this|{}|0x605ea5cc
+14:01:36.0 (143426897)|STATEMENT_EXECUTE|[1]
+14:01:36.0 (143428437)|STATEMENT_EXECUTE|[2]
+14:01:36.0 (143443507)|STATEMENT_EXECUTE|[3]
+14:01:36.0 (143446022)|STATEMENT_EXECUTE|[4]
+14:01:36.0 (143470212)|STATEMENT_EXECUTE|[6]
+14:01:36.0 (143471531)|STATEMENT_EXECUTE|[7]
+14:01:36.0 (143480704)|HEAP_ALLOCATE|[7]|Bytes:4
+14:01:36.0 (143529932)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{}|0x605ea5cc
+14:01:36.0 (143536896)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (143545640)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x316c1e9e
+14:01:36.0 (143556285)|VARIABLE_ASSIGNMENT|[2]|this.tbList|[]|0x605ea5cc
+14:01:36.0 (143561712)|STATEMENT_EXECUTE|[8]
+14:01:36.0 (143568822)|HEAP_ALLOCATE|[8]|Bytes:4
+14:01:36.0 (143597180)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"tbList":"0x316c1e9e"}|0x605ea5cc
+14:01:36.0 (143601209)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (143605138)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x26519cd
+14:01:36.0 (143610197)|VARIABLE_ASSIGNMENT|[3]|this.wrkList|[]|0x605ea5cc
+14:01:36.0 (143614800)|STATEMENT_EXECUTE|[9]
+14:01:36.0 (143620524)|HEAP_ALLOCATE|[9]|Bytes:4
+14:01:36.0 (143645204)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"tbList":"0x316c1e9e","wrkList":"0x26519cd"}|0x605ea5cc
+14:01:36.0 (143649074)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:4
+14:01:36.0 (143652179)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[]|0x2a05c145
+14:01:36.0 (143656552)|VARIABLE_ASSIGNMENT|[4]|this.itSolList|[]|0x605ea5cc
+14:01:36.0 (143660412)|STATEMENT_EXECUTE|[10]
+14:01:36.0 (143672349)|METHOD_ENTRY|[10]|01pn0000000BTbe|ExpressTestHomeController.tbHistory()
+14:01:36.0 (143681836)|VARIABLE_SCOPE_BEGIN|[15]|this|ExpressTestHomeController|true|false
+14:01:36.0 (143694967)|VARIABLE_ASSIGNMENT|[15]|this|{"itSolList":"0x2a05c145","tbList":"0x316c1e9e","wrkList":"0x26519cd"}|0x605ea5cc
+14:01:36.0 (143700396)|STATEMENT_EXECUTE|[15]
+14:01:36.0 (143701742)|STATEMENT_EXECUTE|[16]
+14:01:36.0 (143702813)|STATEMENT_EXECUTE|[16]
+14:01:36.0 (143703978)|STATEMENT_EXECUTE|[17]
+14:01:36.0 (143710092)|HEAP_ALLOCATE|[17]|Bytes:152
+14:01:36.0 (143719651)|HEAP_ALLOCATE|[17]|Bytes:4
+14:01:36.0 (144097494)|SOQL_EXECUTE_BEGIN|[17]|Aggregations:0|SELECT id, Name__c FROM Doc_Line__c WHERE (LastViewedDate != NULL AND recordType.Name = 'Express Test') ORDER BY LastViewedDate DESC NULLS FIRST LIMIT 5
+14:01:36.0 (148363104)|SOQL_EXECUTE_END|[17]|Rows:5
+14:01:36.0 (148385376)|HEAP_ALLOCATE|[17]|Bytes:24
+14:01:36.0 (148418082)|HEAP_ALLOCATE|[17]|Bytes:598
+14:01:36.0 (148447370)|HEAP_ALLOCATE|[17]|Bytes:24
+14:01:36.0 (148502150)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"itSolList":"0x2a05c145","tbList":"0x316c1e9e","wrkList":"0x26519cd"}|0x605ea5cc
+14:01:36.0 (148536567)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[{"Id":"a5Hn00000003facEAA","Name__c":"MFN Test Battery","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003gFUEAY","Name__c":"Demo to Karl - Expre (7 more) ...","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003gJbEAI","Name__c":"test","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003fgkEAA","Name__c":"Testing description  (5 more) ...","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003fgfEAA","Name__c":"Testing create New B (6 more) ...","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"}]|0x55ecab96
+14:01:36.0 (148570336)|VARIABLE_ASSIGNMENT|[2]|this.tbList|[{"Id":"a5Hn00000003facEAA","Name__c":"MFN Test Battery","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003gFUEAY","Name__c":"Demo to Karl - Expre (7 more) ...","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003gJbEAI","Name__c":"test","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003fgkEAA","Name__c":"Testing description  (5 more) ...","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"},{"Id":"a5Hn00000003fgfEAA","Name__c":"Testing create New B (6 more) ...","RecordTypeId":"012n00000004daNAAQ","CurrencyIsoCode":"USD"}]|0x605ea5cc
+14:01:36.0 (148585501)|METHOD_EXIT|[10]|01pn0000000BTbe|ExpressTestHomeController.tbHistory()
+14:01:36.0 (148589761)|STATEMENT_EXECUTE|[11]
+14:01:36.0 (148604782)|METHOD_ENTRY|[11]|01pn0000000BTbe|ExpressTestHomeController.wrkLdHistory()
+14:01:36.0 (148622009)|VARIABLE_SCOPE_BEGIN|[23]|this|ExpressTestHomeController|true|false
+14:01:36.0 (148658111)|VARIABLE_ASSIGNMENT|[23]|this|{"itSolList":"0x2a05c145","tbList":"0x55ecab96","wrkList":"0x26519cd"}|0x605ea5cc
+14:01:36.0 (148664053)|STATEMENT_EXECUTE|[23]
+14:01:36.0 (148666013)|STATEMENT_EXECUTE|[24]
+14:01:36.0 (148667470)|STATEMENT_EXECUTE|[24]
+14:01:36.0 (148668941)|STATEMENT_EXECUTE|[25]
+14:01:36.0 (148677523)|HEAP_ALLOCATE|[25]|Bytes:113
+14:01:36.0 (148685010)|HEAP_ALLOCATE|[25]|Bytes:4
+14:01:36.0 (148920186)|SOQL_EXECUTE_BEGIN|[25]|Aggregations:0|SELECT id, Name__c FROM Workload__c WHERE LastViewedDate != NULL ORDER BY LastViewedDate DESC NULLS FIRST LIMIT 5
+14:01:36.0 (152281635)|SOQL_EXECUTE_END|[25]|Rows:4
+14:01:36.0 (152312882)|HEAP_ALLOCATE|[25]|Bytes:20
+14:01:36.0 (152343508)|HEAP_ALLOCATE|[25]|Bytes:555
+14:01:36.0 (152372321)|HEAP_ALLOCATE|[25]|Bytes:20
+14:01:36.0 (152464154)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"itSolList":"0x2a05c145","tbList":"0x55ecab96","wrkList":"0x26519cd"}|0x605ea5cc
+14:01:36.0 (152509547)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[{"Id":"a14a000000OdgK9AAJ","Name__c":"AGS Enhancements","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},{"Id":"a14a000000Fx7o7AAB","Name__c":"Product Wizard - AT  (37 more) ...","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},{"Id":"a14a0000007wpU1AAI","Name__c":"Daily Support - BAT- (31 more) ...","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},{"Id":"a14a000000Odm5NAAR","Name__c":"347280-CTDI Shipping (11 more) ...","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"}]|0x6efc77cc
+14:01:36.0 (152551587)|VARIABLE_ASSIGNMENT|[3]|this.wrkList|[{"Id":"a14a000000OdgK9AAJ","Name__c":"AGS Enhancements","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},{"Id":"a14a000000Fx7o7AAB","Name__c":"Product Wizard - AT  (37 more) ...","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},{"Id":"a14a0000007wpU1AAI","Name__c":"Daily Support - BAT- (31 more) ...","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"},{"Id":"a14a000000Odm5NAAR","Name__c":"347280-CTDI Shipping (11 more) ...","RecordTypeId":"012a0000001RRqUAAW","CurrencyIsoCode":"USD"}]|0x605ea5cc
+14:01:36.0 (152574679)|METHOD_EXIT|[11]|01pn0000000BTbe|ExpressTestHomeController.wrkLdHistory()
+14:01:36.0 (152580596)|STATEMENT_EXECUTE|[12]
+14:01:36.0 (152602915)|METHOD_ENTRY|[12]|01pn0000000BTbe|ExpressTestHomeController.itSolHistory()
+14:01:36.0 (152628645)|VARIABLE_SCOPE_BEGIN|[30]|this|ExpressTestHomeController|true|false
+14:01:36.0 (152656230)|VARIABLE_ASSIGNMENT|[30]|this|{"itSolList":"0x2a05c145","tbList":"0x55ecab96","wrkList":"0x6efc77cc"}|0x605ea5cc
+14:01:36.0 (152665074)|STATEMENT_EXECUTE|[30]
+14:01:36.0 (152667544)|STATEMENT_EXECUTE|[31]
+14:01:36.0 (152669153)|STATEMENT_EXECUTE|[31]
+14:01:36.0 (152670875)|STATEMENT_EXECUTE|[32]
+14:01:36.0 (152686108)|HEAP_ALLOCATE|[32]|Bytes:114
+14:01:36.0 (152695197)|HEAP_ALLOCATE|[32]|Bytes:4
+14:01:36.0 (153006821)|SOQL_EXECUTE_BEGIN|[32]|Aggregations:0|SELECT id, Name FROM SAAS_Profile__c WHERE LastViewedDate != NULL ORDER BY LastViewedDate DESC NULLS FIRST LIMIT 5
+14:01:36.0 (156062464)|SOQL_EXECUTE_END|[32]|Rows:2
+14:01:36.0 (156081346)|HEAP_ALLOCATE|[32]|Bytes:12
+14:01:36.0 (156096861)|HEAP_ALLOCATE|[32]|Bytes:246
+14:01:36.0 (156117765)|HEAP_ALLOCATE|[32]|Bytes:12
+14:01:36.0 (156174826)|VARIABLE_ASSIGNMENT|[EXTERNAL]|this|{"itSolList":"0x2a05c145","tbList":"0x55ecab96","wrkList":"0x6efc77cc"}|0x605ea5cc
+14:01:36.0 (156204807)|VARIABLE_ASSIGNMENT|[EXTERNAL]|value|[{"Id":"a11a000000FIVJ3AAP","Name":"Sales Knowledge and  (4 more) ...","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"},{"Id":"a11a0000005TDWwAAO","Name":"CRM: Account-Site Ma (8 more) ...","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"}]|0x60fc4ea3
+14:01:36.0 (156234899)|VARIABLE_ASSIGNMENT|[4]|this.itSolList|[{"Id":"a11a000000FIVJ3AAP","Name":"Sales Knowledge and  (4 more) ...","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"},{"Id":"a11a0000005TDWwAAO","Name":"CRM: Account-Site Ma (8 more) ...","RecordTypeId":"012a0000001RQhrAAG","CurrencyIsoCode":"USD"}]|0x605ea5cc
+14:01:36.0 (156272815)|METHOD_EXIT|[12]|01pn0000000BTbe|ExpressTestHomeController.itSolHistory()
+14:01:36.0 (157314229)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (157735936)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (158185062)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (158767337)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (164736621)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (164841288)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (164991200)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (165395529)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (165557760)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (165812607)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (170151181)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (177812319)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (179765623)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (181408176)|SYSTEM_MODE_ENTER|true
+14:01:36.0 (198808007)|VF_SERIALIZE_VIEWSTATE_BEGIN|066n00000000qhm
+14:01:36.0 (203400618)|VF_SERIALIZE_VIEWSTATE_END
+14:01:36.206 (206837304)|CUMULATIVE_LIMIT_USAGE
+14:01:36.206 (206837304)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 12 out of 100
+  Number of query rows: 40 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+14:01:36.206 (206837304)|CUMULATIVE_LIMIT_USAGE_END
+
+14:01:36.0 (206883816)|CODE_UNIT_FINISHED|VF: /apex/ExpressTestNewBattery
+14:01:36.0 (207804982)|EXECUTION_FINISHED
