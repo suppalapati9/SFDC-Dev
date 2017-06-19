@@ -1,1 +1,4 @@
-{"metadata_server_url": "https://arris--UAT.cs30.my.salesforce.com/services/Soap/m/28.0/00Dn000000094J9", "endpoint": "https://test.salesforce.com/services/Soap/u/28.0", "user_id": "005a0000009vSV5AAM", "server_url": "https://arris--UAT.cs30.my.salesforce.com/services/Soap/u/28.0/00Dn000000094J9", "sid": "00Dn000000094J9!ASAAQBOruMA2opTX4NhflsOc_RdWYmi2oHWm5zhZ8LTrmeurBlHiqid7SopkxoV.7u7bl6wBU.eOFPkoa2gmeh0nzN.ngki3"}
+{
+    "accessToken": "00Dn000000094J9!ASAAQBJ94JUjMFV3XxclcJo6BFHwkMba7wcGFPAGRrAZVJIC9R3XNRfRsG_NPZPHZi_yeRmxjNkfzINN.QHNLYCDeNzNtEEI",
+    "instanceUrl": "https://arris--UAT.cs30.my.salesforce.com"
+}

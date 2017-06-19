@@ -237,6 +237,13 @@
             "xmlName": "Portal"
         },
         {
+            "directoryName": "EmbeddedServiceConfig",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "EmbeddedServiceConfig",
+            "xmlName": "EmbeddedServiceConfig"
+        },
+        {
             "directoryName": "flows",
             "inFolder": false,
             "metaFile": false,

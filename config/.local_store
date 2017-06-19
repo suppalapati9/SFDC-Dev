@@ -1,18 +1,4 @@
 {
-    "HelloWorld.page": {
-        "createdById": "00530000004ps35AAA",
-        "createdByName": "Rashmi Nirmal",
-        "createdDate": "2011-12-02T15:39:57.000Z",
-        "fileName": "unpackaged/pages/HelloWorld.page",
-        "fullName": "HelloWorld",
-        "id": "06630000000mItqAAE",
-        "lastModifiedById": "005a000000BAqw9AAD",
-        "lastModifiedByName": "Venkata Adusumilli",
-        "lastModifiedDate": "2017-06-19T16:02:53.000Z",
-        "manageableState": "unmanaged",
-        "type": "ApexPage",
-        "mmState": "clean"
-    },
     "hello_world.page": {
         "createdById": "005a0000009vSV5AAM",
         "createdByName": "Swathi Uppalapati",

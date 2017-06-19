@@ -1,21 +1,12 @@
 {
-    "username": "swathi.uppalapati@arris.com.uat",
-    "environment": "sandbox",
-    "project_name": "SFDC Dev",
-    "workspace": "C:\\BIT",
-    "org_url": "",
+    "projectName": "Prj V1",
+    "username": "venkata.adusumilli@arris.com.uat",
+    "id": "7f89c1c0-5518-11e7-a7ec-45c24bae6319",
     "namespace": "",
-    "id": "OYFCL2CBR0FNP8QWSMBP40VTHA3ZML53",
-    "metadata_container": "1dcn0000000Naq4AAC",
+    "environment": "sandbox",
+    "loginUrl": "https://test.salesforce.com/",
+    "workspace": "C:\\Sublime Workspace",
     "subscription": [
-        "ApexClass",
-        "ApexComponent",
-        "ApexPage",
-        "ApexTrigger",
-        "CustomObject",
-        "Profile",
-        "StaticResource"
-    ],
-    "orgType": "sandbox",
-    "instanceUrl": "https://arris--UAT.cs30.my.salesforce.com"
+        "ApexPage"
+    ]
 }

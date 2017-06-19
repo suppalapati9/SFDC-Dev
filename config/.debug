@@ -1,9 +1,7 @@
 {
     "users": [
-        "005a0000009vSV5AAM"
+        "005a000000BAqw9AAD"
     ],
-    "logType": "USER_DEBUG",
-    "debugLevelName": "MAVENSMATE",
     "levels": {
         "Workflow": "INFO",
         "Callout": "INFO",
